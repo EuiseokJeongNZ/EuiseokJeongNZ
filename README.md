@@ -142,8 +142,15 @@
 <h2>🔥 GitHub Streak</h2>
 
 <p align="center">
+<!--
   <img
     src="https://streak-stats.demolab.com?user=EuiseokJeongNZ&amp;theme=algolia"
+    alt="Euiseok's GitHub Streak"
+  />
+-->
+  <img
+    width="45%"
+    src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=gotham"
     alt="Euiseok's GitHub Streak"
   />
 </p>
@@ -153,11 +160,13 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
+<!--
   <img
     width="45%"
     src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=gotham"
     alt="Euiseok's GitHub Streak"
   />
+-->
   <img
     width="45%"
     src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham"
