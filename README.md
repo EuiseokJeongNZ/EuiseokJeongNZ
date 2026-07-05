@@ -34,12 +34,12 @@
 
 <p>
   🎓 <strong>Background</strong><br>
-  Computer Information and Sciences graduate from Auckland University of Technology.
+  Bachelor of Computer Information and Sciences graduate from Auckland University of Technology.
 </p>
 
 <p>
   🤖 <strong>Current Focus</strong><br>
-  Studying ROS 2, OpenCV, PyTorch, NumPy, Linux, and Ubuntu through the Doosan Robotics Bootcamp.
+  Studying ROS2, OpenCV, PyTorch, NumPy, Linux, and Ubuntu through the Doosan Robotics Bootcamp.
 </p>
 
 <p>
