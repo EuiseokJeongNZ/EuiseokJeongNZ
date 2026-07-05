@@ -74,6 +74,37 @@
 
 <br>
 
+<h2>🚀 Projects</h2>
+
+<h3>프로젝트명</h3>
+<ul>
+  <li><strong>Description:</strong> 프로젝트 간단 설명</li>
+  <li><strong>Tech Stack:</strong> ROS 2, Python, OpenCV</li>
+  <li><strong>Role:</strong> 담당 기능</li>
+  <li><a href="깃허브 주소">Repository</a></li>
+</ul>
+
+<br>
+
+<h2>🏅 Certifications & Training</h2>
+
+<ul>
+  <li>
+    <strong>Doosan Robotics Bootcamp</strong>
+    — In Progress
+  </li>
+  <li>
+    <strong>Engineer Information Processing</strong>
+    — 예정 또는 취득 날짜
+  </li>
+  <li>
+    <strong>OPIc IH</strong>
+    — 취득 날짜
+  </li>
+</ul>
+
+<br>
+
 <h2>🛠️ My Skills</h2>
 
 <h3>👉 Programming Languages</h3>
