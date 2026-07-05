@@ -32,51 +32,30 @@
 
 <h2>🙋‍♂️ About Me</h2>
 
-<ul>
-  <li>
-    🎓 Graduated from Auckland University of Technology with a Bachelor's
-    degree in Computer Information and Sciences.
-  </li>
+<p>
+  🎓 <strong>Background</strong><br>
+  Computer Information and Sciences graduate from Auckland University of Technology.
+</p>
 
-  <li>
-    🤖 Currently studying robotics software and intelligent automation
-    through the Doosan Robotics Bootcamp.
-  </li>
+<p>
+  🤖 <strong>Current Focus</strong><br>
+  Studying ROS 2, OpenCV, PyTorch, NumPy, Linux, and Ubuntu through the Doosan Robotics Bootcamp.
+</p>
 
-  <li>
-    🌱 Currently learning ROS 2, OpenCV, PyTorch, NumPy, Linux, and Ubuntu.
-  </li>
+<p>
+  💻 <strong>Development Experience</strong><br>
+  Experienced in full-stack development with Python, Django REST Framework, React, and PostgreSQL.
+</p>
 
-  <li>
-    💻 Experienced in developing full-stack web applications using Python,
-    Django, Django REST Framework, React, and PostgreSQL.
-  </li>
+<p>
+  🚀 <strong>Deployment & Industry Experience</strong><br>
+  Built and deployed an e-commerce application using Docker, GitHub Actions, AWS, and Nginx, and worked as a Flutter Developer Intern.
+</p>
 
-  <li>
-    🚀 Built and deployed a full-stack e-commerce application using Docker,
-    GitHub Actions, AWS EC2, AWS S3, and Nginx.
-  </li>
-
-  <li>
-    🛠️ Worked as a Flutter Developer Intern, focusing on API integration,
-    data synchronisation, debugging, testing, and deployment.
-  </li>
-
-  <li>
-    ☁️ Microsoft Certified: Azure Fundamentals.
-  </li>
-
-  <li>
-    🎯 Interested in robot control, computer vision, robotics software,
-    and industrial automation.
-  </li>
-
-  <!--
-  <li>
-    🌏 Fun fact: I studied and lived in New Zealand for several years.
-  </li>
-  -->
-</ul>
+<p>
+  🎯 <strong>Interests</strong><br>
+  Interested in robot control, computer vision, robotics software, and industrial automation.
+</p>
 
 <br>
 
