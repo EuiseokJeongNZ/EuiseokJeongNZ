@@ -34,27 +34,27 @@
 
 <p>
   🎓 <strong>Background</strong><br>
-  ⭐ Bachelor of Computer Information and Sciences graduate from Auckland University of Technology.
+  <li>Bachelor of Computer Information and Sciences graduate from Auckland University of Technology.</li>
 </p>
 
 <p>
   🤖 <strong>Current Focus</strong><br>
-  ⭐ Studying ROS2, OpenCV, PyTorch, NumPy, Linux, and Ubuntu through the Doosan Robotics Bootcamp.
+  <li>Studying ROS2, OpenCV, PyTorch, NumPy, Linux, and Ubuntu through the Doosan Robotics Bootcamp.</li>
 </p>
 
 <p>
   💻 <strong>Development Experience</strong><br>
-  ⭐ Experienced in full-stack development with Python, Django REST Framework, React, and PostgreSQL.
+  <li>Experienced in full-stack development with Python, Django REST Framework, React, and PostgreSQL.</li>
 </p>
 
 <p>
   🚀 <strong>Deployment & Industry Experience</strong><br>
-  ⭐ Built and deployed an e-commerce application using Docker, GitHub Actions, AWS, and Nginx, and worked as a Flutter Developer Intern.
+  <li>Built and deployed an e-commerce application using Docker, GitHub Actions, AWS, and Nginx, and worked as a Flutter Developer Intern.</li>
 </p>
 
 <p>
   🎯 <strong>Interests</strong><br>
-  ⭐ Interested in robot control, computer vision, robotics software, and industrial automation.
+  <li>Interested in robot control, computer vision, robotics software, and industrial automation.</li>
 </p>
 
 <br>
