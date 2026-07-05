@@ -32,30 +32,45 @@
 
 <h2>🙋‍♂️ About Me</h2>
 
-<p>
-  🎓 <strong>Background</strong><br>
-  <li>Bachelor of Computer Information and Sciences graduate from Auckland University of Technology.</li>
-</p>
+<p><strong>🎓 Background</strong></p>
+<ul>
+  <li>
+    Bachelor of Computer Information and Sciences graduate from
+    Auckland University of Technology.
+  </li>
+</ul>
 
-<p>
-  🤖 <strong>Current Focus</strong><br>
-  <li>Studying ROS2, OpenCV, PyTorch, NumPy, Linux, and Ubuntu through the Doosan Robotics Bootcamp.</li>
-</p>
+<p><strong>🤖 Current Focus</strong></p>
+<ul>
+  <li>
+    Studying ROS 2, OpenCV, PyTorch, NumPy, Linux, and Ubuntu through
+    the Doosan Robotics Bootcamp.
+  </li>
+</ul>
 
-<p>
-  💻 <strong>Development Experience</strong><br>
-  <li>Experienced in full-stack development with Python, Django REST Framework, React, and PostgreSQL.</li>
-</p>
+<p><strong>💻 Development Experience</strong></p>
+<ul>
+  <li>
+    Experienced in full-stack development with Python, Django REST Framework,
+    React, and PostgreSQL.
+  </li>
+</ul>
 
-<p>
-  🚀 <strong>Deployment & Industry Experience</strong><br>
-  <li>Built and deployed an e-commerce application using Docker, GitHub Actions, AWS, and Nginx, and worked as a Flutter Developer Intern.</li>
-</p>
+<p><strong>🚀 Deployment &amp; Industry Experience</strong></p>
+<ul>
+  <li>
+    Built and deployed an e-commerce application using Docker, GitHub Actions,
+    AWS, and Nginx, and worked as a Flutter Developer Intern.
+  </li>
+</ul>
 
-<p>
-  🎯 <strong>Interests</strong><br>
-  <li>Interested in robot control, computer vision, robotics software, and industrial automation.</li>
-</p>
+<p><strong>🎯 Interests</strong></p>
+<ul>
+  <li>
+    Interested in robot control, computer vision, robotics software,
+    and industrial automation.
+  </li>
+</ul>
 
 <br>
 
