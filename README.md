@@ -203,27 +203,9 @@
 
 <br>
 
-<h2>🤝 Let's Connect</h2>
-
+<h2 id="️-lets-connect">🙋‍♀️ Let’s Connect</h2>
 <p align="center">
-  <a href="https://euiseok-jeong-portfolio.netlify.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-
-  <a href="mailto:euiseokjeongnz@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
-      alt="Gmail"
-    />
-  </a>
-
-  <a href="https://github.com/EuiseokJeongNZ">
-    <img
-      src="https://img.shields.io/badge/GitHub-EuiseokJeongNZ-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-</p>
+  <a href="https://euiseok-jeong-portfolio.netlify.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"></a>
+	<a href="mailto:euiseokjeongnz@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"></a>
+	<a href="https://github.com/EuiseokJeongNZ"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/euiseok-jeong-965b9b310/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"></a>
