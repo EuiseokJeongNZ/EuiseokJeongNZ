@@ -180,14 +180,12 @@
 
 <p align="center">
   <img
-    width="100%"
-	height="100%"
+    width="48%"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;theme=gotham&amp;langs_count=5"
     alt="Euiseok's Most Used Languages"
   />
   <img
-    width="100%"
-	height="100%"
+    width="48%"
     src="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/animations/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif?raw=true"
     alt="Coding Animation"
   />
