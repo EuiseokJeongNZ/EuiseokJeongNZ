@@ -161,7 +161,7 @@
 
 <br>
 
-<h2 align="center">📈 Current Stats</h2>
+<h2>📈 Current Stats</h2>
 
 <p align="center">
   <img
