@@ -37,7 +37,7 @@
 
 <ul>
   <li>
-    🎓 Graduated from Auckland University of Technology with a degree in
+    🎓 Graduated from Auckland University of Technology with a Bachelor's degree in
     Computer Information and Sciences.
   </li>
 
@@ -51,12 +51,12 @@
   </li>
 
   <li>
-    💻 Experienced in developing full-stack applications using Python,
+    💻 Experienced in developing a full-stack website using Python,
     Django, Django REST Framework, React, and PostgreSQL.
   </li>
 
   <li>
-    🚀 Built and deployed a full-stack e-commerce application using Docker,
+    🚀 Built and deployed a full-stack e-commerce website using Docker,
     GitHub Actions, AWS EC2, AWS S3, and Nginx.
   </li>
 
@@ -74,9 +74,11 @@
     and industrial automation.
   </li>
 
+  <!--
   <li>
     🌏 Fun fact: I studied and lived in New Zealand for several years.
   </li>
+  -->
 </ul>
 
 <br>
@@ -213,47 +215,40 @@
 <h3>👉 Cloud & DevOps</h3>
 
 <p align="left">
-
   <a href="https://aws.amazon.com/" target="_blank">
     <img
       alt="AWS"
       src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"
     />
   </a>
-
   <a href="https://azure.microsoft.com/" target="_blank">
     <img
       alt="Microsoft Azure"
       src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"
     />
   </a>
-
   <a href="https://www.docker.com/" target="_blank">
     <img
       alt="Docker"
       src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"
     />
   </a>
-
   <a href="https://github.com/features/actions" target="_blank">
     <img
       alt="GitHub Actions"
       src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"
     />
   </a>
-
   <img
     alt="CI/CD"
     src="https://img.shields.io/badge/CI%2FCD-4285F4?style=flat&logo=githubactions&logoColor=white"
   />
-
   <a href="https://nginx.org/" target="_blank">
     <img
       alt="Nginx"
       src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"
     />
   </a>
-
 </p>
 
 <h3>👉 Software & Tools</h3>
@@ -302,13 +297,14 @@
     />
   </a>
 
+  <!--
   <a href="https://jupyter.org/" target="_blank">
     <img
       alt="Jupyter"
       src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"
     />
   </a>
-
+  -->
 </p>
 
 <br>
