@@ -150,30 +150,37 @@
 
 <br>
 
-<h2 align="center">📈 Current Stats</h2>
-
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=algolia" alt="Euiseok's GitHub Streak"><img width="48%" src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=algolia" alt="Euiseok's GitHub Stats">
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" alt="Euiseok's Most Used Languages">
-</p>
-
 <h2>📊 GitHub Stats</h2>
 
-<details open>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br>
+<h2 align="center">📈 Current Stats</h2>
 
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EuiseokJeongNZ&show_icons=true&theme=algolia" alt="Euiseok's GitHub Stats" height="190"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuiseokJeongNZ&layout=compact&theme=algolia" alt="Euiseok's Most Used Languages" height="190"></p>
+<br>
 
-  <p align="center">
-    <b>Note:</b>
-    The language statistics reflect the code in my public repositories
-    and do not represent my overall experience or proficiency.
-  </p>
-</details>
+<p align="center">
+  <img
+    width="45%"
+    src="https://streak-stats.demolab.com?user=EuiseokJeongNZ&amp;theme=gotham&amp;show_icons=true"
+    alt="Euiseok's GitHub Streak"
+  />
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham"
+    alt="Euiseok's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;layout=compact&amp;theme=gotham"
+    alt="Euiseok's Most Used Languages"
+  />
+  <img
+    width="45%"
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    alt="Coding Animation"
+  />
+</p>
 
 <details>
   <summary><b>⚡ GitHub Activity</b></summary>
