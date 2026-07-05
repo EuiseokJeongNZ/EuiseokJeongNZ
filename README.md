@@ -111,7 +111,7 @@
     HTML5, CSS3, Vanilla JavaScript, Figma, CodePen, Imweb
   </li>
   <li>
-    <a href="https://github.com/EuiseokJeongNZ/responsive-seat-map-ui">
+    <a href="https://github.com/EuiseokJeongNZ/interactive-stadium-seat-map/tree/main">
       View Repository
     </a>
   </li>
