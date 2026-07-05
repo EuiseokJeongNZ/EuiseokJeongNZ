@@ -86,134 +86,110 @@
 <h2>🛠️ My Skills</h2>
 
 <h3>👉 Programming Languages</h3>
-
 <p align="left">
-
   <a href="https://www.python.org/" target="_blank">
     <img
       alt="Python"
       src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"
     />
   </a>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       alt="JavaScript"
       src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"
     />
   </a>
-
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img
       alt="C Sharp"
       src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"
     />
   </a>
-
   <a href="https://www.sql.org/" target="_blank">
     <img
       alt="SQL"
       src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"
     />
   </a>
-
 </p>
 
 <h3>👉 Robotics, AI & Computer Vision</h3>
-
 <p align="left">
-
   <a href="https://docs.ros.org/en/rolling/" target="_blank">
     <img
       alt="ROS 2"
       src="https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white"
     />
   </a>
-
   <a href="https://opencv.org/" target="_blank">
     <img
       alt="OpenCV"
       src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"
     />
   </a>
-
   <a href="https://pytorch.org/" target="_blank">
     <img
       alt="PyTorch"
       src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"
     />
   </a>
-
   <a href="https://numpy.org/" target="_blank">
     <img
       alt="NumPy"
       src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"
     />
   </a>
-
 </p>
 
 <h3>👉 Backend Development</h3>
-
 <p align="left">
-
   <a href="https://www.djangoproject.com/" target="_blank">
     <img
       alt="Django"
       src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"
     />
   </a>
-
   <a href="https://www.django-rest-framework.org/" target="_blank">
     <img
       alt="Django REST Framework"
       src="https://img.shields.io/badge/Django%20REST-A30000?style=flat&logo=django&logoColor=white"
     />
   </a>
-
   <img
     alt="REST API"
     src="https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white"
   />
-
   <a href="https://www.postgresql.org/" target="_blank">
     <img
       alt="PostgreSQL"
       src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"
     />
   </a>
-
 </p>
 
 <h3>👉 Frontend Development</h3>
-
 <p align="left">
-
   <a href="https://react.dev/" target="_blank">
     <img
       alt="React"
       src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"
     />
   </a>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img
       alt="HTML5"
       src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"
     />
   </a>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img
       alt="CSS3"
       src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"
     />
   </a>
-
 </p>
 
 <h3>👉 Cloud & DevOps</h3>
-
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
     <img
@@ -252,44 +228,37 @@
 </p>
 
 <h3>👉 Software & Tools</h3>
-
 <p align="left">
-
   <a href="https://git-scm.com/" target="_blank">
     <img
       alt="Git"
       src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"
     />
   </a>
-
   <a href="https://github.com/" target="_blank">
     <img
       alt="GitHub"
       src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"
     />
   </a>
-
   <a href="https://www.linux.org/" target="_blank">
     <img
       alt="Linux"
       src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"
     />
   </a>
-
   <a href="https://ubuntu.com/" target="_blank">
     <img
       alt="Ubuntu"
       src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"
     />
   </a>
-
   <a href="https://code.visualstudio.com/" target="_blank">
     <img
       alt="Visual Studio Code"
       src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"
     />
   </a>
-
   <a href="https://colab.research.google.com/" target="_blank">
     <img
       alt="Google Colab"
