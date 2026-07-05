@@ -189,19 +189,15 @@
   />
 </p>
 
-<details>
-  <summary><b>⚡ GitHub Activity</b></summary>
+<h3>⚡ GitHub Activity</h3>
 
-  <br>
-
-  <p align="center">
-    <img
-      width="95%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=EuiseokJeongNZ&amp;theme=react-dark"
-      alt="Euiseok's Contribution Graph"
-    />
-  </p>
-</details>
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=EuiseokJeongNZ&amp;theme=github-compact&amp;hide_border=true"
+    alt="Euiseok's GitHub Activity Graph"
+  />
+</p>
 
 <br>
 
