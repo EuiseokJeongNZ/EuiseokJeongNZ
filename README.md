@@ -161,6 +161,8 @@
 
 <h2>📊 GitHub Stats</h2>
 
+<h2 align="center">📈 Current Stats</h2>
+
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
   <tr>
     <td width="50%" align="center">
