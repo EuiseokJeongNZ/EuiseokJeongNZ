@@ -152,19 +152,15 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<h2 align="center">📈 Current Stats</h2>
-
-<br>
-
 <p align="center">
   <img
     width="45%"
-    src="https://streak-stats.demolab.com?user=EuiseokJeongNZ&amp;theme=gotham&amp;show_icons=true"
+    src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=gotham"
     alt="Euiseok's GitHub Streak"
   />
   <img
     width="45%"
-    src="https://github-readme-stats.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham"
+    src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham"
     alt="Euiseok's GitHub Stats"
   />
 </p>
@@ -172,7 +168,7 @@
 <p align="center">
   <img
     width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;layout=compact&amp;theme=gotham"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;layout=compact&amp;theme=gotham"
     alt="Euiseok's Most Used Languages"
   />
   <img
