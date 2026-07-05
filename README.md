@@ -153,25 +153,10 @@
 <h2>📊 GitHub Stats</h2>
 
 <details open>
-  <summary>
-    <b>💻 GitHub Profile Stats</b>
-  </summary>
-
+  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br>
 
-  <p align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;count_private=true&amp;theme=algolia"
-      alt="Euiseok's GitHub Stats"
-      height="190"
-    />
-
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;layout=compact&amp;theme=algolia"
-      alt="Euiseok's Most Used Languages"
-      height="190"
-    />
-  </p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EuiseokJeongNZ&show_icons=true&theme=algolia" alt="Euiseok's GitHub Stats" height="190"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuiseokJeongNZ&layout=compact&theme=algolia" alt="Euiseok's Most Used Languages" height="190"></p>
 
   <p align="center">
     <b>Note:</b>
@@ -181,15 +166,12 @@
 </details>
 
 <details>
-  <summary>
-    <b>⚡ GitHub Activity</b>
-  </summary>
-
+  <summary><b>⚡ GitHub Activity</b></summary>
   <br>
 
   <p align="center">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=EuiseokJeongNZ&amp;theme=react-dark"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=EuiseokJeongNZ&theme=react-dark"
       alt="Euiseok's Contribution Graph"
     />
   </p>
