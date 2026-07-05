@@ -86,8 +86,6 @@
 </ul>
 -->
 
-<h2>🚀 Projects</h2>
-
 <h3>AI & Computer Vision Practice</h3>
 <ul>
   <li><strong>Description:</strong> AI and computer vision exercises completed during the Doosan Robotics Bootcamp.</li>
