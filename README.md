@@ -139,15 +139,16 @@
 
 <br>
 
+<!--
 <h2>🔥 GitHub Streak</h2>
 
 <p align="center">
-<!--
+
   <img
     src="https://streak-stats.demolab.com?user=EuiseokJeongNZ&amp;theme=algolia"
     alt="Euiseok's GitHub Streak"
   />
--->
+
   <img
     width="45%"
     src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=gotham"
@@ -156,35 +157,18 @@
 </p>
 
 <br>
+-->
 
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-<!--
-  <img
-    width="45%"
-    src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=gotham"
-    alt="Euiseok's GitHub Streak"
-  />
--->
-  <img
-    width="45%"
-    src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham"
-    alt="Euiseok's GitHub Stats"
-  />
+  <img width="45%" src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=gotham" alt="Euiseok's GitHub Streak" />
+  <img width="45%" src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham" alt="Euiseok's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img
-    width="45%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;layout=compact&amp;theme=gotham"
-    alt="Euiseok's Most Used Languages"
-  />
-  <img
-    width="45%"
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    alt="Coding Animation"
-  />
+  <img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;theme=gotham&amp;langs_count=5" alt="Euiseok's Most Used Languages" />
+  <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" alt="Coding Animation" />
 </p>
 
 <details>
