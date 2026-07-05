@@ -94,7 +94,7 @@ Add the robotics project here after completion and place it above the other proj
 </ul>
 -->
 
-<h3>PurePro | Full-Stack E-Commerce Web App</h3>
+<h3>⭐ PurePro | Full-Stack E-Commerce Web App</h3>
 <ul>
   <li>
     <strong>Description:</strong>
@@ -114,7 +114,7 @@ Add the robotics project here after completion and place it above the other proj
   </li>
 </ul>
 
-<h3>Interactive Stadium Seat Map | Client Project</h3>
+<h3>⭐ Interactive Stadium Seat Map | Client Project</h3>
 <ul>
   <li>
     <strong>Description:</strong>
@@ -137,7 +137,7 @@ Add the robotics project here after completion and place it above the other proj
   </li>
 </ul>
 
-<h3>AI &amp; Computer Vision Practice</h3>
+<h3>⭐ AI &amp; Computer Vision Practice</h3>
 <ul>
   <li>
     <strong>Description:</strong>
