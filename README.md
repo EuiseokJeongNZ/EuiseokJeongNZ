@@ -265,7 +265,7 @@
 	<img width="48%" height="160" src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham" alt="Euiseok's GitHub Stats" /> 
 </p> 
 <p align="center"> 
-	<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;theme=gotham&amp;langs_count=5" alt="Euiseok's Most Used Languages" /> 
+	<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;theme=gotham&amp;langs_count=5&amp;hide=jupyter%20notebook" alt="Euiseok's Most Used Languages" /> 
 	<img width="48%" src="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/animations/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?raw=true" alt="Coding Animation" /> 
 </p>
 
