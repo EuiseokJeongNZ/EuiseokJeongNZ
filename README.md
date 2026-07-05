@@ -159,7 +159,9 @@
 <br>
 -->
 
-<h2>📊 GitHub Stats</h2>
+<br>
+
+<h2 align="center">📈 Current Stats</h2>
 
 <p align="center">
   <img
@@ -177,7 +179,7 @@
 <p align="center">
   <img
     width="48%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;theme=gotham&amp;layout=compact&amp;langs_count=5"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;theme=gotham&amp;langs_count=5"
     alt="Euiseok's Most Used Languages"
   />
   <img
@@ -187,27 +189,53 @@
   />
 </p>
 
-<h3>⚡ GitHub Activity</h3>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EuiseokJeongNZ&amp;theme=github-compact&amp;hide_border=true"
-    alt="Euiseok's GitHub Activity Graph"
-  />
-</p>
-
 <details>
   <summary><b>⚡ GitHub Activity</b></summary>
+
   <br>
 
   <p align="center">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=EuiseokJeongNZ&theme=react-dark"
+      width="95%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=EuiseokJeongNZ&amp;theme=react-dark"
       alt="Euiseok's Contribution Graph"
     />
   </p>
 </details>
+
+<br>
+
+<h2 align="center">🤝 Let’s Connect</h2>
+
+<p align="center">
+  <a href="https://euiseok-jeong-portfolio.netlify.app/">
+    <img
+      src="https://img.icons8.com/bubbles/50/000000/web.png"
+      alt="Website"
+    />
+  </a>
+
+  <a href="mailto:euiseokjeongnz@gmail.com">
+    <img
+      src="https://img.icons8.com/bubbles/50/000000/gmail.png"
+      alt="Gmail"
+    />
+  </a>
+
+  <a href="https://github.com/EuiseokJeongNZ">
+    <img
+      src="https://img.icons8.com/bubbles/50/000000/github.png"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/euiseok-jeong-965b9b310/">
+    <img
+      src="https://img.icons8.com/bubbles/50/000000/linkedin.png"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
 
 <br>
 
