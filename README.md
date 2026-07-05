@@ -184,7 +184,7 @@
   />
   <img
     width="48%"
-    src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true"
+    src="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/animations/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif?raw=true"
     alt="Coding Animation"
   />
 </p>
