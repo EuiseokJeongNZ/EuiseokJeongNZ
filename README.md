@@ -76,12 +76,23 @@
 
 <h2>🚀 Projects</h2>
 
+<!--
 <h3>프로젝트명</h3>
 <ul>
   <li><strong>Description:</strong> 프로젝트 간단 설명</li>
   <li><strong>Tech Stack:</strong> ROS 2, Python, OpenCV</li>
   <li><strong>Role:</strong> 담당 기능</li>
   <li><a href="깃허브 주소">Repository</a></li>
+</ul>
+-->
+
+<h2>🚀 Projects</h2>
+
+<h3>AI & Computer Vision Practice</h3>
+<ul>
+  <li><strong>Description:</strong> AI and computer vision exercises completed during the Doosan Robotics Bootcamp.</li>
+  <li><strong>Tech Stack:</strong> Python, PyTorch, OpenCV, NumPy</li>
+  <li><a href="https://github.com/EuiseokJeongNZ/ai-lecture-notes">View Repository</a></li>
 </ul>
 
 <br>
@@ -101,7 +112,7 @@
     <td>Education</td>
     <td>Bachelor of Computer and Information Sciences</td>
     <td>Auckland University of Technology</td>
-    <td>2025</td>
+    <td>Jul 2023-Dec 2025</td>
     <td>
       <a href="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/Certificate_of_Graduation_Mosaicked.pdf">View</a>
     </td>
