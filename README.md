@@ -76,6 +76,54 @@
 
 <h2>🚀 Projects</h2>
 
+<h3>PurePro | Full-Stack eCommerce Web App</h3>
+<ul>
+  <li>
+    <strong>Description:</strong>
+    Production-style e-commerce application featuring HttpOnly cookie-based JWT authentication,
+    automatic token refresh, checkout, order management, and purchase-verified reviews.
+  </li>
+  <li>
+    <strong>Tech Stack:</strong>
+    React, Django REST Framework, PostgreSQL, Docker, AWS EC2, Nginx, GitHub Actions
+  </li>
+  <li>
+    <a href="https://github.com/EuiseokJeongNZ/react-ecommerce-project">
+      View Repository
+    </a>
+  </li>
+</ul>
+
+<h3>Interactive Stadium Seat Map | Client Project</h3>
+<ul>
+  <li>
+    <strong>Description:</strong>
+    Developed responsive and interactive stadium seat maps for 30 football
+    and baseball ticket product pages deployed on a live e-commerce service.
+  </li>
+  <li>
+    <strong>Key Features:</strong>
+    Interactive seat overlays, linked legends, desktop tooltips,
+    mobile bottom sheets, keyboard accessibility, and responsive layouts.
+  </li>
+  <li>
+    <strong>Tech Stack:</strong>
+    HTML5, CSS3, Vanilla JavaScript, Figma, CodePen, Imweb
+  </li>
+  <li>
+    <a href="https://github.com/EuiseokJeongNZ/responsive-seat-map-ui">
+      View Repository
+    </a>
+  </li>
+</ul>
+
+<h3>AI & Computer Vision Practice</h3>
+<ul>
+  <li><strong>Description:</strong> AI and computer vision exercises completed during the Doosan Robotics Bootcamp.</li>
+  <li><strong>Tech Stack:</strong> Python, PyTorch, OpenCV, NumPy</li>
+  <li><a href="https://github.com/EuiseokJeongNZ/ai-lecture-notes">View Repository</a></li>
+</ul>
+
 <!--
 <h3>프로젝트명</h3>
 <ul>
@@ -85,13 +133,6 @@
   <li><a href="깃허브 주소">Repository</a></li>
 </ul>
 -->
-
-<h3>AI & Computer Vision Practice</h3>
-<ul>
-  <li><strong>Description:</strong> AI and computer vision exercises completed during the Doosan Robotics Bootcamp.</li>
-  <li><strong>Tech Stack:</strong> Python, PyTorch, OpenCV, NumPy</li>
-  <li><a href="https://github.com/EuiseokJeongNZ/ai-lecture-notes">View Repository</a></li>
-</ul>
 
 <br>
 
