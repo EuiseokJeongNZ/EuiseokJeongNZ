@@ -41,18 +41,6 @@
   </li>
 </ul>
 
-<p><strong>🤖 Current Focus</strong></p>
-<ul>
-  <li>
-    Currently participating in the Doosan Robotics Bootcamp and studying
-    ROS 2, Linux, Ubuntu, OpenCV, PyTorch, and NumPy.
-  </li>
-  <li>
-    Building foundational knowledge in ROS 2 nodes, topics, services,
-    robot communication, and robotics software development.
-  </li>
-</ul>
-
 <p><strong>💻 Development Experience</strong></p>
 <ul>
   <li>
@@ -66,6 +54,18 @@
   <li>
     Completed a Flutter Developer Internship and contributed to
     client-facing software development.
+  </li>
+</ul>
+
+<p><strong>🤖 Current Focus</strong></p>
+<ul>
+  <li>
+    Currently participating in the Doosan Robotics Bootcamp and studying
+    ROS 2, Linux, Ubuntu, OpenCV, PyTorch, and NumPy.
+  </li>
+  <li>
+    Building foundational knowledge in ROS 2 nodes, topics, services,
+    robot communication, and robotics software development.
   </li>
 </ul>
 
