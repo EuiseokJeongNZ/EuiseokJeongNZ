@@ -27,6 +27,7 @@
   and full-stack application development.
   </li>
 </p>
+<br>
 
 <p align="center">
   <img
@@ -34,8 +35,6 @@
     alt="Profile Views"
   />
 </p>
-
-<br>
 
 <h2>🙋‍♂️ About Me</h2>
 <details open>
