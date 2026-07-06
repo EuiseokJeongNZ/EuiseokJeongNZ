@@ -212,7 +212,7 @@ Add the robotics project here after completion and place it above the other proj
     <td>Oct 2025</td>
     <td>
       <a href="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/CredentialsAzureFundamentals.pdf">
-        Verify
+        View
       </a>
     </td>
   </tr>
