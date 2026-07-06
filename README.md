@@ -15,11 +15,15 @@
 <hr>
 
 <h4 align="center">
-  Software developer transitioning into robotics software engineering.
-  Currently studying ROS 2, Linux, computer vision, and robot software
-  development through the ongoing Doosan Robotics Bootcamp.
-  Experienced in Python, Django, React, cloud deployment, and Docker-based
-  application development.
+	<p>
+	  Software developer transitioning into robotics software engineering.<br><br>
+	
+	  Currently studying ROS 2, Linux, computer vision, and robot software
+	  development through the Doosan Robotics Bootcamp.<br><br>
+	
+	  Experienced in Python, Django, React, Docker, cloud deployment,
+	  and full-stack application development.
+	</p>
 </h4>
 
 <br>
