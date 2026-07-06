@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+and+Robotics+Engineer;Python+%26+ROS2+%26+Computer+Vision+%26+Linux+%26+Ubuntu;React+%C2%B7+Django+%C2%B7+SQL+%C2%B7+Docker+%C2%B7+AWS+%C2%B7+CI/CD;Full-Stack+Development+%C2%B7+Robotics+Software&am;color=2AA889&amp;center=true&amp;width=650&amp;height=50"
+      src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+%26+Robotics+Engineer;Python+%C2%B7+ROS2+%C2%B7+Computer+Vision+%C2%B7+Linux+%C2%B7+Ubuntu;React+%C2%B7+Django+%C2%B7+SQL+%C2%B7+Docker+%C2%B7+AWS+%C2%B7+CI/CD;Full-Stack+Development+%C2%B7+Robotics+Software&am;color=2AA889&amp;center=true&amp;width=650&amp;height=50"
       alt="Typing SVG"
     />
   </a>
