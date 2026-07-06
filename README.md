@@ -39,6 +39,7 @@
 
 <h2>🙋‍♂️ About Me</h2>
 <details open>
+<br>
 <p><strong>🎓 Background</strong></p>
 <ul>
   <li>
