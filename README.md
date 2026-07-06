@@ -38,7 +38,7 @@
 </p>
 
 <h2>🙋‍♂️ About Me</h2>
-
+<details>
 <p><strong>🎓 Background</strong></p>
 <ul>
   <li>
@@ -82,11 +82,12 @@
     and industrial automation.
   </li>
 </ul>
+</details>
 
 <br>
 
 <h2>🚀 Projects</h2>
-
+<details>
 <!--
 Add the robotics project here after completion and place it above the other projects.
 
@@ -165,11 +166,13 @@ Add the robotics project here after completion and place it above the other proj
     </a>
   </li>
 </ul>
+</details>
 
 <br>
 
 <h2>🎓 Education, Certifications &amp; Experience 🏅</h2>
 
+<details>
 <table>
   <tr>
     <th>Category</th>
@@ -235,11 +238,13 @@ Add the robotics project here after completion and place it above the other proj
     </td>
   </tr>
 </table>
+</details>
 
 <br>
 
 <h2>🛠️ Technical Skills</h2>
 
+<details>
 <h3>👉 Programming Languages</h3>
 
 <p align="left">
@@ -349,6 +354,7 @@ Add the robotics project here after completion and place it above the other proj
     <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&amp;logo=googlecolab&amp;logoColor=white" />
   </a>
 </p>
+</details>
 
 <br>
 
