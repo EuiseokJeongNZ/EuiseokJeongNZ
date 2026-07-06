@@ -15,17 +15,24 @@
 <hr>
 
 <p>
-  <li>
-    Software developer transitioning into robotics software engineering.
-  </li><br>
-  <li>
-	  Currently studying ROS 2, Linux, computer vision, and robot software
-	  development through the Doosan Robotics Bootcamp.
-  </li><br>
-  <li>
-  Experienced in Python, Django, React, Docker, cloud deployment,
-  and full-stack application development.
-  </li>
+<li>
+  Software developer with experience in full-stack development and cloud deployment.
+</li>
+
+<li>
+  Graduated from Auckland University of Technology in New Zealand with a
+  Bachelor of Computer and Information Sciences.
+</li>
+
+<li>
+  Experienced in Python, Django, React, Docker, AWS, and CI/CD, with a focus
+  on applying software engineering principles to robotics and automation.
+</li>
+
+<li>
+  Currently developing hands-on skills in ROS 2, Linux, computer vision,
+  and robot software development through the Doosan Robotics Bootcamp.
+</li>
 </p>
 <br>
 
