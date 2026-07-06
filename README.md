@@ -26,7 +26,7 @@
 <br>
 <li>
   Experienced in Python, Django, React, Docker, AWS, and CI/CD, with a focus
-  on applying software engineering principles to robotics and automation.
+  on applying software engineering principles.
 </li>
 </p>
 <br>
