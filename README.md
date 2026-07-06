@@ -18,20 +18,15 @@
 <li>
   Software developer with experience in full-stack development and cloud deployment.
 </li>
-
+<br>
 <li>
   Graduated from Auckland University of Technology in New Zealand with a
   Bachelor of Computer and Information Sciences.
 </li>
-
+<br>
 <li>
   Experienced in Python, Django, React, Docker, AWS, and CI/CD, with a focus
   on applying software engineering principles to robotics and automation.
-</li>
-
-<li>
-  Currently developing hands-on skills in ROS 2, Linux, computer vision,
-  and robot software development through the Doosan Robotics Bootcamp.
 </li>
 </p>
 <br>
