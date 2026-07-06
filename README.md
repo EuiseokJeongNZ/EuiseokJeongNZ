@@ -1,6 +1,7 @@
 <h1 align="center">
-  Hi, I'm Euiseok Jeong
+  Hi, &nbsp;
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  I'm Euiseok Jeong
 </h1>
 
 <p align="center">
@@ -11,17 +12,6 @@
     />
   </a>
 </p>
-
-<!--
-<p align="center">
-  <a>
-    <img
-      src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+%26+Robotics+Engineer;Python+%C2%B7+ROS2+%C2%B7+Computer+Vision+%C2%B7+Linux;React+%C2%B7+Django+%C2%B7+SQL+%C2%B7+Docker+%C2%B7+AWS&color=5EA58B&center=true&width=650&height=50"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
--->
 
 <hr>
 
