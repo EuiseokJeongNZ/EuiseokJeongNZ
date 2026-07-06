@@ -279,9 +279,11 @@ Add the robotics project here after completion and place it above the other proj
   </a>
 </p>
 
+<!--
 <p>
   ROS 2 nodes · Topics · Services · Linux · Ubuntu · Computer vision fundamentals
 </p>
+-->
 
 <h3>👉 Backend Development</h3>
 
