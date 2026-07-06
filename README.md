@@ -28,9 +28,14 @@
   </li>
 </p>
 
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=EuiseokJeongNZ&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=plastic"
+    alt="Profile Views"
+  />
+</p>
+
 <br>
-
-
 
 <h2>🙋‍♂️ About Me</h2>
 <details open>
