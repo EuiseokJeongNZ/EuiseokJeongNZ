@@ -374,20 +374,8 @@ Add the robotics project here after completion and place it above the other proj
 </p>
 
 <p align="center"> 
-  <img
-    align="center"
-    width="48%"
-    height="160"
-    src="https://streak-stats.demolab.com?user=EuiseokJeongNZ&theme=gotham&hide_border=false&border_radius=4.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=495&card_height=160"
-    alt="Euiseok's GitHub Streak"
-  />
-
-  <img
-    align="center"
-    width="48%"
-    height="160"
-    src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&show_icons=true&theme=gotham&hide_border=false&border_radius=4.5&card_width=495"
-    alt="Euiseok's GitHub Stats"
+  <img align="center" width="48%" height="160" src="https://streak-stats.demolab.com?user=EuiseokJeongNZ&theme=gotham&hide_border=false&border_radius=4.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=495&card_height=160" alt="Euiseok's GitHub Streak"/>
+  <img align="center" width="48%" height="160" src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&show_icons=true&theme=gotham&hide_border=false&border_radius=4.5&card_width=495" alt="Euiseok's GitHub Stats"
   />
 </p>
 
