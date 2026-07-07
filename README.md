@@ -196,7 +196,7 @@ Add the robotics project here after completion and place it above the other proj
 
 <p align="left">
   <a href="https://docs.ros.org/en/rolling/" target="_blank">
-    <img alt="ROS2" src="https://img.shields.io/badge/ROS%202-Learning-22314E?style=flat&amp;logo=ros&amp;logoColor=white" />
+    <img alt="ROS2" src="https://img.shields.io/badge/ROS%202?style=flat&amp;logo=ros&amp;logoColor=white" />
   </a>
   <a href="https://opencv.org/" target="_blank">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&amp;logo=opencv&amp;logoColor=white" />
