@@ -364,38 +364,12 @@ Add the robotics project here after completion and place it above the other proj
 
 <h2>📈 Current Stats</h2>
 
-<!--
-<p align="center">
-  <img width="48%" height="160" src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=gotham" alt="Euiseok's GitHub Streak" />
-  <img width="48%" height="160" src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham" alt="Euiseok's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img width="48%" height="345" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;theme=gotham&amp;langs_count=5" alt="Euiseok's Most Used Languages" />
-  <img width="48%" height="345" src="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/animations/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif?raw=true" alt="Coding Animation" />
-</p>
-
-<h3>⚡ GitHub Activity</h3>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EuiseokJeongNZ&amp;theme=github-compact&amp;hide_border=true"
-    alt="Euiseok's GitHub Activity Graph"
-  />
-</p>
--->
-
 <p align="center"> 
 	<!-- <img width="48%" height="160" src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=gotham" alt="Euiseok's GitHub Streak" /> -->
-	<a href="https://git.io/streak-stats">
-  <img
-    width="48%"
-    height="160"
+    <img width="48%" height="160"
     src="https://streak-stats.demolab.com?user=EuiseokJeongNZ&theme=gotham&hide_border=false&border_radius=4.5&date_format=j%20M%5B%20Y%5D&mode=weekly"
     alt="Euiseok's GitHub Streak"
-  />
-</a>
+    />
 	<img width="48%" height="160" src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham" alt="Euiseok's GitHub Stats" /> 
 </p> 
 <p align="center"> 
