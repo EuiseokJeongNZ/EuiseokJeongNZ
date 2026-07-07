@@ -387,7 +387,9 @@ Add the robotics project here after completion and place it above the other proj
 -->
 
 <p align="center"> 
-	<img width="48%" height="160" src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ" alt="Euiseok's GitHub Streak" />
+	<img width="48%" height="160"
+  src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=gotham"
+  alt="Euiseok's GitHub Streak" />
 	<img width="48%" height="160" src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham" alt="Euiseok's GitHub Stats" /> 
 </p> 
 <p align="center"> 
