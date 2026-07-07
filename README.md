@@ -386,8 +386,8 @@ Add the robotics project here after completion and place it above the other proj
 </p>
 -->
 <p align="center">
-  <img width="410" height="170" src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=gotham&amp;hide_border=false&amp;border_radius=4.5&amp;date_format=j%20M%5B%20Y%5D&amp;mode=weekly&amp;card_width=410&amp;card_height=170" alt="Euiseok's GitHub Streak" />
-  <img width="410" height="170" src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham&amp;hide_border=false&amp;border_radius=4.5&amp;card_width=410" alt="Euiseok Jeong's GitHub Stats" />
+  <img width="370" height="170" src="https://streak-stats.demolab.com?user=EuiseokJeongNZ&amp;theme=gotham&amp;hide_border=false&amp;border_radius=4.5&amp;date_format=j%20M%5B%20Y%5D&amp;mode=weekly&amp;card_width=370&amp;card_height=170&amp;v=4" alt="Euiseok's GitHub Streak" />
+  <img width="370" height="170" src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham&amp;hide_border=false&amp;border_radius=4.5&amp;v=4" alt="Euiseok Jeong's GitHub Stats" />
 </p>
 
 <p align="center"> 
