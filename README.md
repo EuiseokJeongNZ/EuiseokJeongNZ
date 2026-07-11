@@ -91,41 +91,28 @@
 <h2>💼 Experience</h2>
 
 <details open>
-<h3>❤️ HeartFull.Online | Flutter &amp; Firebase Developer Intern</h3>
+<h3>❤️ HeartFull.Online | Flutter Developer Intern</h3>
 
 <p>
-  <strong>BetaBuilders</strong> · Jul 2025 – Oct 2025 · 10 weeks
+  <strong>BetaBuilders</strong> · Jul 2025 – Oct 2025
 </p>
 
 <ul>
   <li>
-    Developed core Flutter Admin Panel features, including user management,
-    post moderation, chat logs, and data filtering.
+    Developed and improved Flutter Admin Panel features for user management,
+    moderation, and data filtering.
   </li>
   <li>
-    Implemented Firebase Authentication and Firestore CRUD operations,
-    including optimised document queries and soft-delete functionality.
+    Integrated REST APIs, implemented Firestore CRUD operations,
+    and resolved data synchronisation issues.
   </li>
   <li>
-    Integrated REST APIs and debugged data synchronisation issues between
-    the Flutter application and backend services.
-  </li>
-  <li>
-    Improved moderation workflows, scrollable lists, list ordering,
-    navigation behaviour, and overall UI/UX.
-  </li>
-  <li>
-    Tested and deployed new features to the live production environment
-    and assisted with troubleshooting.
-  </li>
-  <li>
-    Collaborated through GitHub branches, pull requests, code reviews,
-    and team-based development workflows.
+    Tested and deployed features to the live environment using
+    GitHub-based collaboration.
   </li>
   <li>
     <strong>Tech Stack:</strong>
-    Dart, Flutter, Firebase Authentication, Cloud Firestore,
-    Firebase Storage, REST APIs, Git, GitHub
+    Dart, Flutter, Firebase, REST APIs, Git, GitHub
   </li>
 </ul>
 </details>
