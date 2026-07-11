@@ -88,22 +88,80 @@
 
 <br>
 
+<h2>💼 Experience</h2>
+
+<details open>
+<h3>❤️ HeartFull.Online | Flutter &amp; Firebase Developer Intern</h3>
+
+<p>
+  <strong>BetaBuilders</strong> · Jul 2025 – Oct 2025 · 10 weeks
+</p>
+
+<ul>
+  <li>
+    Developed core Flutter Admin Panel features, including user management,
+    post moderation, chat logs, and data filtering.
+  </li>
+  <li>
+    Implemented Firebase Authentication and Firestore CRUD operations,
+    including optimised document queries and soft-delete functionality.
+  </li>
+  <li>
+    Integrated REST APIs and debugged data synchronisation issues between
+    the Flutter application and backend services.
+  </li>
+  <li>
+    Improved moderation workflows, scrollable lists, list ordering,
+    navigation behaviour, and overall UI/UX.
+  </li>
+  <li>
+    Tested and deployed new features to the live production environment
+    and assisted with troubleshooting.
+  </li>
+  <li>
+    Collaborated through GitHub branches, pull requests, code reviews,
+    and team-based development workflows.
+  </li>
+  <li>
+    <strong>Tech Stack:</strong>
+    Dart, Flutter, Firebase Authentication, Cloud Firestore,
+    Firebase Storage, REST APIs, Git, GitHub
+  </li>
+</ul>
+</details>
+
 <h2>🚀 Projects</h2>
+
 <details open>
 <!--
 Add the robotics project here after completion and place it above the other projects.
 
-<h3>ROS 2 Robotics Project</h3>
+<h3>⭐ ROS 2 Robotics Project</h3>
 <ul>
-  <li><strong>Description:</strong> Briefly explain the problem and project goal.</li>
-  <li><strong>Key Features:</strong> ROS 2 nodes, topics, services, actions, sensors, or simulation.</li>
-  <li><strong>Role:</strong> Explain the features you personally implemented.</li>
-  <li><strong>Tech Stack:</strong> ROS 2, Python, Linux, OpenCV</li>
-  <li><a href="Repository URL">View Repository</a></li>
+  <li>
+    <strong>Description:</strong>
+    Briefly explain the problem and project goal.
+  </li>
+  <li>
+    <strong>Key Features:</strong>
+    ROS 2 nodes, topics, services, actions, sensors, or simulation.
+  </li>
+  <li>
+    <strong>Role:</strong>
+    Explain the features you personally implemented.
+  </li>
+  <li>
+    <strong>Tech Stack:</strong>
+    ROS 2, Python, Linux, OpenCV
+  </li>
+  <li>
+    <a href="Repository URL">View Repository</a>
+  </li>
 </ul>
 -->
 
 <h3>⭐ PurePro | Full-Stack E-Commerce Web App</h3>
+
 <ul>
   <li>
     <strong>Description:</strong>
@@ -112,9 +170,14 @@ Add the robotics project here after completion and place it above the other proj
     and purchase-verified reviews.
   </li>
   <li>
+    <strong>Key Features:</strong>
+    Authentication, product management, shopping cart, checkout,
+    order processing, verified reviews, and automated deployment.
+  </li>
+  <li>
     <strong>Tech Stack:</strong>
-    React, Django REST Framework, PostgreSQL, Docker, AWS EC2, Nginx,
-    GitHub Actions
+    React, Django REST Framework, PostgreSQL, Docker, AWS EC2,
+    Nginx, GitHub Actions
   </li>
   <li>
     <a href="https://github.com/EuiseokJeongNZ/react-ecommerce-project">
@@ -124,6 +187,7 @@ Add the robotics project here after completion and place it above the other proj
 </ul>
 
 <h3>⭐ Interactive Stadium Seat Map | Client Project</h3>
+
 <ul>
   <li>
     <strong>Description:</strong>
@@ -147,6 +211,7 @@ Add the robotics project here after completion and place it above the other proj
 </ul>
 
 <h3>⭐ AI &amp; Computer Vision Practice</h3>
+
 <ul>
   <li>
     <strong>Description:</strong>
@@ -156,7 +221,7 @@ Add the robotics project here after completion and place it above the other proj
   <li>
     <strong>Topics:</strong>
     Image processing, deep learning fundamentals, model training,
-    and computer vision practice.
+    object detection, and computer vision practice.
   </li>
   <li>
     <strong>Tech Stack:</strong>
@@ -169,7 +234,6 @@ Add the robotics project here after completion and place it above the other proj
   </li>
 </ul>
 </details>
-
 <br>
 
 <h2>🛠️ Technical Skills</h2>
