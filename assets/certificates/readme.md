@@ -1,6 +1,5 @@
 <h2>🎓 Education, Certifications &amp; Experience 🏅</h2>
 
-<details>
 <table>
   <tr>
     <th>Category</th>
@@ -66,6 +65,4 @@
     </td>
   </tr>
 </table>
-</details>
-
 <br>
