@@ -174,95 +174,86 @@ Add the robotics project here after completion and place it above the other proj
 
 <h2>🛠️ Technical Skills</h2>
 
-<table width="100%">
-  <tr>
-    <td align="center" valign="middle" width="33%" height="255">
-      <br>
-      <sub><b>Languages</b></sub><br>
-      <strong>Programming</strong>
-      <br><br><br>
+<details open>
+  <table width="100%">
+    <tr>
+      <td align="center" valign="top" width="33%">
+        <h3>👉 Programming</h3>
+        <p>
+          <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+          <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+          <br>
+          <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white">
+        </p>
+      </td>
 
-      <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,cs&theme=light&perline=2"
-        alt="Python, JavaScript, C Sharp"
-      />
+      <td align="center" valign="top" width="33%">
+        <h3>👉 Robotics</h3>
+        <p>
+          <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white">
+          <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
+          <br>
+          <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+          <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+        </p>
+      </td>
 
-      <br><br>
-    </td>
+      <td align="center" valign="top" width="33%">
+        <h3>👉 Backend</h3>
+        <p>
+          <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+          <img alt="REST API" src="https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white">
+          <br>
+          <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+          <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+          <br>
+          <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-47A248?style=flat&logo=mongodb&logoColor=white">
+        </p>
+      </td>
+    </tr>
 
-    <td align="center" valign="middle" width="33%" height="255">
-      <br>
-      <sub><b>AI / Vision</b></sub><br>
-      <strong>Robotics</strong>
-      <br><br><br>
+    <tr>
+      <td align="center" valign="top" width="33%">
+        <h3>👉 Frontend</h3>
+        <p>
+          <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+          <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+          <br>
+          <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+          <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+        </p>
+      </td>
 
-      <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=ros,opencv,pytorch,numpy&theme=light&perline=2"
-        alt="ROS 2, OpenCV, PyTorch, NumPy"
-      />
+      <td align="center" valign="top" width="33%">
+        <h3>👉 Cloud</h3>
+        <p>
+          <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
+          <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white">
+          <br>
+          <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+          <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+          <br>
+          <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
+          <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white">
+        </p>
+      </td>
 
-      <br><br>
-    </td>
-
-    <td align="center" valign="middle" width="33%" height="255">
-      <br>
-      <sub><b>APIs / Data</b></sub><br>
-      <strong>Backend</strong>
-      <br><br><br>
-
-      <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=django,djangorestframework,api,postgresql&theme=light&perline=3"
-        alt="Django, Django REST Framework, REST API, PostgreSQL"
-      />
-
-      <br><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" valign="middle" width="33%" height="255">
-      <br>
-      <sub><b>Web UI</b></sub><br>
-      <strong>Frontend</strong>
-      <br><br><br>
-
-      <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,flutter&theme=light&perline=2"
-        alt="HTML5, CSS3, React, Flutter"
-      />
-
-      <br><br>
-    </td>
-
-    <td align="center" valign="middle" width="33%" height="255">
-      <br>
-      <sub><b>DevOps</b></sub><br>
-      <strong>Cloud</strong>
-      <br><br><br>
-
-      <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,docker,githubactions,nginx&theme=light&perline=3"
-        alt="AWS, Azure, Docker, GitHub Actions, Nginx"
-      />
-
-      <br><br>
-    </td>
-
-    <td align="center" valign="middle" width="33%" height="255">
-      <br>
-      <sub><b>Workflow</b></sub><br>
-      <strong>Tools</strong>
-      <br><br><br>
-
-      <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=git,github,linux,ubuntu,vscode,googlecolab&theme=light&perline=3"
-        alt="Git, GitHub, Linux, Ubuntu, Visual Studio Code, Google Colab"
-      />
-
-      <br><br>
-    </td>
-  </tr>
-</table>
+      <td align="center" valign="top" width="33%">
+        <h3>👉 Tools</h3>
+        <p>
+          <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+          <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+          <br>
+          <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+          <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+          <br>
+          <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+          <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white">
+        </p>
+      </td>
+    </tr>
+  </table>
+</details>
 
 <br>
 
