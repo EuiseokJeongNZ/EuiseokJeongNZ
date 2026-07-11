@@ -115,7 +115,7 @@
     Dart, Flutter, Firebase, REST APIs, Git, GitHub
   </li>
   <li>
-    <a href="[Repository URL](https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/Certificate%20of%20Internship%20Participation.pdf)">View Certificate</a>
+    <a href="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/Certificate%20of%20Internship%20Participation.pdf">View Certificate</a>
   </li>
 </ul>
 </details>
