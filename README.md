@@ -187,7 +187,6 @@ Add the robotics project here after completion and place it above the other proj
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=flat&amp;logo=csharp&amp;logoColor=white">
   </a>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&amp;logo=postgresql&amp;logoColor=white">
 </p>
 
 <h3>👉 Robotics, AI &amp; Computer Vision</h3>
@@ -213,11 +212,8 @@ Add the robotics project here after completion and place it above the other proj
   <a href="https://www.djangoproject.com/" target="_blank">
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&amp;logo=django&amp;logoColor=white">
   </a>
-  <a href="https://www.django-rest-framework.org/" target="_blank">
-    <img alt="Django REST" src="https://img.shields.io/badge/Django%20REST-A30000?style=flat&amp;logo=django&amp;logoColor=white">
-  </a>
   <img alt="REST API" src="https://img.shields.io/badge/REST%20API-009688?style=flat&amp;logo=fastapi&amp;logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&amp;logo=postgresql&amp;logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&amp;logoColor=white">
   <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-47A248?style=flat&amp;logoColor=white">
 </p>
 
