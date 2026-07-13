@@ -30,8 +30,10 @@
 </li>
 </p>
 -->
+
 <br>
 
+<!--
 <p align="center">
   <a href="https://euiseok-jeong-portfolio.netlify.app/">
     <img
@@ -68,6 +70,8 @@
     alt="Profile Views"
   />
 </p>
+
+-->
 
 <h2>🙋‍♂️ About Me</h2>
 <details open>
