@@ -13,7 +13,7 @@
 </p>
 
 <hr>
-
+<!--
 <p>
 <li>
   Software developer with experience in full-stack development and cloud deployment.
@@ -29,6 +29,7 @@
   on applying software engineering principles.
 </li>
 </p>
+-->
 <br>
 
 <p align="center">
