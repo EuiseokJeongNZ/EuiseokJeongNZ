@@ -187,28 +187,39 @@ Add the robotics project here after completion and place it above the other proj
 </ul>
 -->
 
-<h3>⭐ PurePro | Full-Stack E-Commerce Web App</h3>
+<h3>⭐ AMR &amp; Collaborative Robot Automation | Team Lead</h3>
 
 <ul>
   <li>
     <strong>Description:</strong>
-    Production-style e-commerce application featuring HTTP-only cookie-based
-    JWT authentication, automatic token refresh, checkout, order management,
-    and purchase-verified reviews.
+    Developed an Isaac Sim and ROS 2-based parcel-sorting automation system
+    integrating an IW Hub AMR, Doosan P3020 collaborative robots, computer
+    vision, conveyors, sorters, and a real-time web control tower.
   </li>
   <li>
     <strong>Key Features:</strong>
-    Authentication, product management, shopping cart, checkout,
-    order processing, verified reviews, and automated deployment.
+    Nav2 autonomous navigation, AMR docking and lift control, RGB/Depth and
+    YOLO ONNX-based parcel detection, repeated P3020 pick-and-place,
+    destination sorting, equipment control, and live mission tracking.
+  </li>
+  <li>
+    <strong>Role:</strong>
+    Served as team lead and worked on AMR development and end-to-end system
+    integration, including Nav2, ROS 2–MQTT adapters, backend and vision
+    integration, infrastructure setup, debugging, and integration testing.
   </li>
   <li>
     <strong>Tech Stack:</strong>
-    React, Django REST Framework, PostgreSQL, Docker, AWS EC2,
-    Nginx, GitHub Actions
+    Isaac Sim 5.1, ROS 2 Jazzy, Python, Nav2, OpenCV, YOLO ONNX, MQTT,
+    FastAPI, PostgreSQL, React, and Docker
   </li>
   <li>
-    <a href="https://github.com/EuiseokJeongNZ/react-ecommerce-project">
+    <a href="https://github.com/rokey-c2/cobot3-ws-c2">
       View Repository
+    </a>
+    ·
+    <a href="https://app.notion.com/p/AMR-Portfolio-466fe8937ec3824e93e801b6c9c8c22b">
+      View Project Documentation
     </a>
   </li>
 </ul>
@@ -232,6 +243,32 @@ Add the robotics project here after completion and place it above the other proj
   </li>
   <li>
     <a href="https://github.com/EuiseokJeongNZ/interactive-stadium-seat-map/tree/main">
+      View Repository
+    </a>
+  </li>
+</ul>
+
+<h3>⭐ PurePro | Full-Stack E-Commerce Web App</h3>
+
+<ul>
+  <li>
+    <strong>Description:</strong>
+    Production-style e-commerce application featuring HTTP-only cookie-based
+    JWT authentication, automatic token refresh, checkout, order management,
+    and purchase-verified reviews.
+  </li>
+  <li>
+    <strong>Key Features:</strong>
+    Authentication, product management, shopping cart, checkout,
+    order processing, verified reviews, and automated deployment.
+  </li>
+  <li>
+    <strong>Tech Stack:</strong>
+    React, Django REST Framework, PostgreSQL, Docker, AWS EC2,
+    Nginx, GitHub Actions
+  </li>
+  <li>
+    <a href="https://github.com/EuiseokJeongNZ/react-ecommerce-project">
       View Repository
     </a>
   </li>
