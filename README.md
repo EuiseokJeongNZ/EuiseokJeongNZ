@@ -274,6 +274,7 @@ Add the robotics project here after completion and place it above the other proj
   </li>
 </ul>
 
+<!--
 <h3>⭐ AI &amp; Computer Vision Practice</h3>
 
 <ul>
@@ -299,6 +300,7 @@ Add the robotics project here after completion and place it above the other proj
 </ul>
 </details>
 <br>
+-->
 
 <h2>🛠️ Technical Skills</h2>
 
