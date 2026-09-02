@@ -299,8 +299,8 @@ Add the robotics project here after completion and place it above the other proj
   </li>
 </ul>
 </details>
-<br>
 -->
+<br>
 
 <h2>🛠️ Technical Skills</h2>
 
