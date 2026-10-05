@@ -1,503 +1,272 @@
-<h1 align="center">
-  Hi,&nbsp;I'm Euiseok Jeong
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-</h1>
+<h1 align="center">Hi, I'm Euiseok Jeong 👋</h1>
+
+<h3 align="center">Robotics Software Engineer</h3>
 
 <p align="center">
-  <a >
-    <img
-      src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+%26+Robotics+Engineer;Python+%C2%B7+ROS2+%C2%B7+Computer+Vision+%C2%B7+Linux+%C2%B7+Ubuntu;React+%C2%B7+Django+%C2%B7+SQL+%C2%B7+Docker+%C2%B7+AWS+%C2%B7+CI/CD&color=5EA58B&center=true&width=650&height=50"
-      alt="Typing SVG"
-    />
-  </a>
+  <strong>ROS 2 · Python · Nav2 · Isaac Sim · Robot System Integration</strong>
 </p>
 
-<hr>
-<!--
-<p>
-<li>
-  Software developer with experience in full-stack development and cloud deployment.
-</li>
-<br>
-<li>
-  Graduated from Auckland University of Technology in New Zealand with a
-  Bachelor of Computer and Information Sciences.
-</li>
-<br>
-<li>
-  Experienced in Python, Django, React, Docker, AWS, and CI/CD, with a focus
-  on applying software engineering principles.
-</li>
-</p>
--->
-
-<br>
-
-<!--
 <p align="center">
-  <a href="https://euiseok-jeong-portfolio.netlify.app/">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/web.png"
-      alt="Website"
-    />
-  </a>
+  Software engineer focused on building and integrating robotics systems from
+  <strong>robot control and ROS 2 communication</strong> to
+  <strong>backend, real-time monitoring, and deployment</strong>.
+</p>
 
-  <a href="mailto:euiseokjeongnz@gmail.com">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/gmail.png"
-      alt="Gmail"
-    />
-  </a>
-
+<p align="center">
   <a href="https://github.com/EuiseokJeongNZ">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/github.png"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-EuiseokJeongNZ-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-
   <a href="https://www.linkedin.com/in/euiseok-jeong-965b9b310/">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/linkedin.png"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-Euiseok%20Jeong-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://euiseok-jeong-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-5EA58B?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=EuiseokJeongNZ&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=plastic"
-    alt="Profile Views"
-  />
-</p>
+---
 
--->
+## 🤖 About Me
 
-<h2>🙋‍♂️ About Me</h2>
-<details open>
-<br>
-<p><strong>🎓 Background</strong></p>
-<ul>
-  <li>
-    Bachelor's degree in Computer and Information Sciences from
-    Auckland University of Technology.
-  </li>
-</ul>
+- 🎓 B.C.I.S. in **Computer and Information Sciences**, Auckland University of Technology
+- 🤖 Focused on **Robotics Software**, especially ROS 2-based AMR, collaborative robot, and industrial automation systems
+- 🧩 Experienced in integrating **ROS 2 ↔ MQTT ↔ Backend ↔ Web Control Tower** into end-to-end systems
+- 🦾 Built both **simulation-based robotics systems** with Isaac Sim and **real-robot systems** with the Doosan M0609
+- 💻 Previous software engineering experience includes a **Flutter developer internship**, a **live client project**, and a **full-stack web application**
+- 🔧 Currently strengthening **C++ / rclcpp / CMake** for deeper robotics software development
 
-<p><strong>💻 Development Experience</strong></p>
-<ul>
-  <li>
-    Full-stack development experience with Python, Django REST Framework,
-    React, PostgreSQL, and REST APIs.
-  </li>
-  <li>
-    Built and deployed a full-stack e-commerce application using Docker,
-    GitHub Actions, AWS EC2, and Nginx.
-  </li>
-  <li>
-    Completed a Flutter Developer Internship and contributed to
-    client-facing software development.
-  </li>
-</ul>
-
-<p><strong>🤖 Current Focus</strong></p>
-<ul>
-  <li>
-    Currently participating in the Doosan Robotics Bootcamp and studying
-    ROS 2, Linux, Ubuntu, OpenCV, PyTorch, and NumPy.
-  </li>
-  <li>
-    Building foundational knowledge in ROS 2 nodes, topics, services,
-    robot communication, and robotics software development.
-  </li>
-</ul>
-
-<p><strong>🎯 Career Interests</strong></p>
-<ul>
-  <li>
-    Robotics software, robot control, computer vision, intelligent automation,
-    and industrial automation.
-  </li>
-</ul>
-</details>
-
-<br>
-
-<h2>💼 Experience</h2>
-
-<details open>
-<h3>❤️ HeartFull.Online | Flutter Developer Intern</h3>
+### What I focus on
 
 <p>
-  <strong>BetaBuilders</strong> · Jul 2025 – Oct 2025
+  <img src="https://img.shields.io/badge/ROS%202-Jazzy-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2">
+  <img src="https://img.shields.io/badge/Nav2-Navigation-4B8BBE?style=flat-square" alt="Nav2">
+  <img src="https://img.shields.io/badge/Isaac%20Sim-5.1-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Sim">
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-Learning%20%26%20Practice-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/MQTT-Mosquitto-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" alt="MQTT">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-<ul>
-  <li>
-    Developed and improved Flutter Admin Panel features for user management,
-    moderation, and data filtering.
-  </li>
-  <li>
-    Integrated REST APIs, implemented Firestore CRUD operations,
-    and resolved data synchronisation issues.
-  </li>
-  <li>
-    Tested and deployed features to the live environment using
-    GitHub-based collaboration.
-  </li>
-  <li>
-    <strong>Tech Stack:</strong>
-    Dart, Flutter, Firebase, REST APIs, Git, GitHub
-  </li>
-  <li>
-    <a href="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/Certificate%20of%20Internship%20Participation.pdf">View Certificate</a>
-  </li>
-</ul>
-</details>
+---
 
-<br>
+## 💼 Experience
 
-<h2>🚀 Projects</h2>
+### ❤️ HeartFull.Online | Flutter Developer Intern
+**BetaBuilders · Jul 2025 – Oct 2025**
 
-<details open>
-<!--
-Add the robotics project here after completion and place it above the other projects.
+- Developed and improved Flutter Admin Panel features for user management, moderation, and data filtering
+- Integrated REST APIs and implemented Firestore CRUD operations
+- Investigated and resolved data synchronisation issues
+- Tested and deployed features to the live environment through GitHub-based collaboration
+- **Tech:** Dart, Flutter, Firebase, REST API, Git, GitHub
+- [View Internship Certificate](https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/Certificate%20of%20Internship%20Participation.pdf)
 
-<h3>⭐ ROS 2 Robotics Project</h3>
-<ul>
-  <li>
-    <strong>Description:</strong>
-    Briefly explain the problem and project goal.
-  </li>
-  <li>
-    <strong>Key Features:</strong>
-    ROS 2 nodes, topics, services, actions, sensors, or simulation.
-  </li>
-  <li>
-    <strong>Role:</strong>
-    Explain the features you personally implemented.
-  </li>
-  <li>
-    <strong>Tech Stack:</strong>
-    ROS 2, Python, Linux, OpenCV
-  </li>
-  <li>
-    <a href="Repository URL">View Repository</a>
-  </li>
-</ul>
--->
+---
 
-<h3>⭐ AMR &amp; Collaborative Robot Automation | Team Lead</h3>
+## 🚀 Featured Robotics Projects
 
-<ul>
-  <li>
-    <strong>Description:</strong>
-    Developed an Isaac Sim and ROS 2-based parcel-sorting automation system
-    integrating an IW Hub AMR, Doosan P3020 collaborative robots, computer
-    vision, conveyors, sorters, and a real-time web control tower.
-  </li>
-  <li>
-    <strong>Key Features:</strong>
-    Nav2 autonomous navigation, AMR docking and lift control, RGB/Depth and
-    YOLO ONNX-based parcel detection, repeated P3020 pick-and-place,
-    destination sorting, equipment control, and live mission tracking.
-  </li>
-  <li>
-    <strong>Role:</strong>
-    Served as team lead and worked on AMR development and end-to-end system
-    integration, including Nav2, ROS 2–MQTT adapters, backend and vision
-    integration, infrastructure setup, debugging, and integration testing.
-  </li>
-  <li>
-    <strong>Tech Stack:</strong>
-    Isaac Sim 5.1, ROS 2 Jazzy, Python, Nav2, OpenCV, YOLO ONNX, MQTT,
-    FastAPI, PostgreSQL, React, and Docker
-  </li>
-  <li>
-    <a href="https://github.com/rokey-c2/cobot3-ws-c2">
-      View Repository
-    </a>
-    ·
-    <a href="https://app.notion.com/p/AMR-Portfolio-466fe8937ec3824e93e801b6c9c8c22b">
-      View Project Documentation
-    </a>
-  </li>
-</ul>
+### ⭐ AMR & Collaborative Robot Automation | Team Lead
 
-<h3>⭐ Interactive Stadium Seat Map | Client Project</h3>
+**Isaac Sim + ROS 2 based parcel-sorting automation and real-time control tower**
 
-<ul>
-  <li>
-    <strong>Description:</strong>
-    Developed responsive and interactive stadium seat maps for 30 football
-    and baseball ticket product pages deployed on a live e-commerce service.
-  </li>
-  <li>
-    <strong>Key Features:</strong>
-    Interactive seat overlays, linked legends, desktop tooltips,
-    mobile bottom sheets, keyboard accessibility, and responsive layouts.
-  </li>
-  <li>
-    <strong>Tech Stack:</strong>
-    HTML5, CSS3, Vanilla JavaScript, Figma, CodePen, Imweb
-  </li>
-  <li>
-    <a href="https://github.com/EuiseokJeongNZ/interactive-stadium-seat-map/tree/main">
-      View Repository
-    </a>
-  </li>
-</ul>
+An end-to-end logistics automation system integrating an **IW Hub AMR**, **Doosan P3020 collaborative robots**, RGB-D vision, conveyor/sorter equipment, and a web control tower.
 
-<h3>⭐ PurePro | Full-Stack E-Commerce Web App</h3>
+### My Role
 
-<ul>
-  <li>
-    <strong>Description:</strong>
-    Production-style e-commerce application featuring HTTP-only cookie-based
-    JWT authentication, automatic token refresh, checkout, order management,
-    and purchase-verified reviews.
-  </li>
-  <li>
-    <strong>Key Features:</strong>
-    Authentication, product management, shopping cart, checkout,
-    order processing, verified reviews, and automated deployment.
-  </li>
-  <li>
-    <strong>Tech Stack:</strong>
-    React, Django REST Framework, PostgreSQL, Docker, AWS EC2,
-    Nginx, GitHub Actions
-  </li>
-  <li>
-    <a href="https://github.com/EuiseokJeongNZ/react-ecommerce-project">
-      View Repository
-    </a>
-  </li>
-</ul>
+- Served as **Team Lead** and led AMR / system-integration work
+- Integrated **Nav2 autonomous navigation**, AMR docking and lift control, and mission execution
+- Worked on ROS 2 communication and **ROS 2 ↔ MQTT integration**
+- Connected robot mission/status data with backend and web control-tower components
+- Supported infrastructure setup, debugging, integration testing, and architecture/documentation
 
-<!--
-<h3>⭐ AI &amp; Computer Vision Practice</h3>
+### Robotics / System Stack
 
-<ul>
-  <li>
-    <strong>Description:</strong>
-    Selected AI and computer vision exercises completed as part of the
-    ongoing Doosan Robotics Bootcamp.
-  </li>
-  <li>
-    <strong>Topics:</strong>
-    Image processing, deep learning fundamentals, model training,
-    object detection, and computer vision practice.
-  </li>
-  <li>
-    <strong>Tech Stack:</strong>
-    Python, PyTorch, OpenCV, NumPy
-  </li>
-  <li>
-    <a href="https://github.com/EuiseokJeongNZ/ai-lecture-notes">
-      View Repository
-    </a>
-  </li>
-</ul>
-</details>
--->
-<br>
+**ROS 2 Jazzy · Python · Nav2 · TF2 · Isaac Sim 5.1 · OpenCV · YOLO / ONNX Runtime · MQTT · FastAPI · PostgreSQL · React · Docker**
 
-<h2>🛠️ Technical Skills</h2>
-
-<details open>
-<h3>👉 Programming Languages</h3>
-<p align="left">
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black">
-<img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=flat&amp;logo=csharp&amp;logoColor=white">
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white">
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&amp;logo=openjdk&amp;logoColor=white">
+<p>
+  <a href="https://github.com/rokey-c2/cobot3-ws-c2"><strong>Repository</strong></a>
+  ·
+  <a href="https://cobot3-ws-c2-architectures.netlify.app/"><strong>Architecture Viewer</strong></a>
+  ·
+  <a href="https://app.notion.com/p/AMR-Portfolio-466fe8937ec3824e93e801b6c9c8c22b"><strong>Project Documentation</strong></a>
 </p>
 
-<h3>👉 Robotics, AI &amp; Computer Vision</h3>
-<p align="left">
-<img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-22314E?style=flat&amp;logo=ros&amp;logoColor=white">
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&amp;logo=opencv&amp;logoColor=white">
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&amp;logo=pytorch&amp;logoColor=white">
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&amp;logo=numpy&amp;logoColor=white">
+---
+
+### ⭐ Weld-Made | Doosan M0609 Contact-Scan & Welding System
+
+**ROS 2 based real-robot contact scanning, welding-path execution, and 3D web monitoring**
+
+A real-robot project using the **Doosan M0609** to probe a workpiece, calculate geometry, generate welding paths, and visualise robot/process state through a web-based 3D control interface.
+
+### My Contribution
+
+- Implemented the **ROS 2 ↔ MQTT bridge** for robot/web communication
+- Implemented **FastAPI MQTT ↔ WebSocket** and REST → MQTT command flows
+- Built the initial **React + Three.js** control/visualisation structure
+- Built MQTT mock-publishing flows for frontend/backend integration testing
+- Set up the web-side **Docker Compose** environment and supported end-to-end integration
+
+### System Stack
+
+**ROS 2 Jazzy · Python · Doosan M0609 · MQTT · FastAPI · WebSocket · React · Three.js · PostgreSQL · Docker**
+
+### Project Validation
+
+- Real robot → ROS 2 → MQTT → Backend → Web end-to-end operation
+- **3 / 3** consecutive end-to-end real-robot integration runs
+- **14 / 14** real-robot edge detections in the documented test session
+
+<p>
+  <a href="https://github.com/yujh5537/rokey_cobot1_Weld-Made"><strong>Repository</strong></a>
 </p>
 
-<h3>👉 Backend Development</h3>
-<p align="left">
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&amp;logo=django&amp;logoColor=white">
-<img alt="REST API" src="https://img.shields.io/badge/REST%20API-009688?style=flat&amp;logo=fastapi&amp;logoColor=white">
-<img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&amp;logoColor=white">
-<img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-47A248?style=flat&amp;logoColor=white">
+---
+
+## 🧑‍💻 Selected Software Engineering Projects
+
+### Interactive Stadium Seat Map | Client Project
+
+Responsive interactive stadium seat-map UI delivered to a **live ticket e-commerce service**.
+
+- Built and deployed interactive seat maps for **30 football and baseball product pages**
+- Implemented irregular seat overlays using percentage coordinates and `clip-path`
+- Implemented desktop tooltips, mobile bottom sheets, linked legends, and keyboard accessibility
+- Prototyped in CodePen before integrating into the production Imweb environment
+- **Tech:** HTML5, CSS3, Vanilla JavaScript, Figma, CodePen, Imweb
+
+<p>
+  <a href="https://github.com/EuiseokJeongNZ/interactive-stadium-seat-map"><strong>Repository</strong></a>
+  ·
+  <a href="https://www.ticketguide.co.kr/shop_view?idx=27#prod_detail_detail"><strong>Live Example</strong></a>
 </p>
 
-<h3>👉 Frontend Development</h3>
-<p align="left">
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB">
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white">
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white">
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&amp;logo=flutter&amp;logoColor=white">
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&amp;logo=figma&amp;logoColor=white">
+---
+
+### PurePro | Full-Stack E-Commerce Web App
+
+Production-style full-stack e-commerce application focused on backend business rules and deployment architecture.
+
+- HttpOnly cookie-based JWT authentication and automatic token refresh
+- Checkout/order validation, stock handling, and order snapshot storage
+- Purchase-verified review policy and backend tests
+- Dockerised backend deployed with AWS EC2, Nginx, and GitHub Actions
+- **Tech:** React, Django REST Framework, PostgreSQL, Docker, AWS EC2, Nginx, GitHub Actions
+
+<p>
+  <a href="https://github.com/EuiseokJeongNZ/react-ecommerce-project"><strong>Repository</strong></a>
 </p>
 
-<h3>👉 Cloud &amp; DevOps</h3>
-<p align="left">
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&amp;logo=amazonaws&amp;logoColor=white">
-<img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&amp;logo=microsoftazure&amp;logoColor=white">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white">
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&amp;logo=githubactions&amp;logoColor=white">
-<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&amp;logo=nginx&amp;logoColor=white">
-<img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-6A5ACD?style=flat&amp;logoColor=white">
-</p>
+---
 
-<h3>👉 Software &amp; Tools</h3>
-<p align="left">
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black">
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=ubuntu&amp;logoColor=white">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&amp;logo=visualstudiocode&amp;logoColor=white">
-<img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&amp;logo=googlecolab&amp;logoColor=white">
-</p>
-</details>
+## 🛠️ Technical Skills
 
-<br>
-
-<h2>🎓 Education, Certifications &amp; Experience 🏅</h2>
-
-<details>
 <table>
   <tr>
-    <th>Category</th>
-    <th>Title</th>
-    <th>Organisation</th>
-    <th>Date</th>
-    <th>Status / Credential</th>
-  </tr>
-
-  <tr>
-    <td>Training</td>
-    <td>Doosan Robotics Bootcamp</td>
-    <td>Doosan Robotics</td>
-    <td>2026–Present</td>
-    <td>In Progress</td>
-  </tr>
-
-  <tr>
-    <td>Education</td>
-    <td>Bachelor of Computer and Information Sciences</td>
-    <td>Auckland University of Technology</td>
-    <td>Jul 2023–Dec 2025</td>
+    <td><strong>Robotics</strong></td>
     <td>
-      <a href="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/Certificate_of_Graduation_Mosaicked.pdf">
-        View
-      </a>
+      ROS 2 Jazzy, Nav2, TF2, Isaac Sim,
+      AMR integration, collaborative robot integration
     </td>
   </tr>
 
   <tr>
-    <td>Experience</td>
-    <td>Flutter Developer Internship</td>
-    <td>HeartFull.Online / BetaBuilders</td>
-    <td>Jul–Oct 2025</td>
+    <td><strong>Programming</strong></td>
     <td>
-      <a href="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/Certificate%20of%20Internship%20Participation.pdf">
-        View
-      </a>
+      Python, JavaScript, Dart,
+      C++ (currently strengthening for ROS 2 / rclcpp)
     </td>
   </tr>
 
   <tr>
-    <td>Certification</td>
-    <td>Microsoft Certified: Azure Fundamentals</td>
-    <td>Microsoft</td>
-    <td>Oct 2025</td>
+    <td><strong>Vision</strong></td>
     <td>
-      <a href="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/CredentialsAzureFundamentals.pdf">
-        View
-      </a>
+      OpenCV, YOLO, ONNX Runtime,
+      RGB-D based detection workflow
     </td>
   </tr>
 
   <tr>
-    <td>Training</td>
-    <td>Microsoft Skills Bootcamp – Azure Fundamentals</td>
-    <td>Akkodis Academy</td>
-    <td>Sep 2025</td>
+    <td><strong>Communication</strong></td>
     <td>
-      <a href="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/CertificateOfBootcampCompletion.pdf">
-        View
-      </a>
+      ROS 2 DDS, MQTT, WebSocket, REST API
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Backend / Data</strong></td>
+    <td>
+      FastAPI, Django REST Framework,
+      PostgreSQL, Firebase
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Frontend / Visualisation</strong></td>
+    <td>
+      React, Three.js, Flutter, HTML, CSS
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>DevOps / Tools</strong></td>
+    <td>
+      Ubuntu, Linux, Docker, Git, GitHub,
+      GitHub Actions, AWS EC2, Nginx
     </td>
   </tr>
 </table>
-</details>
 
-<br>
+---
 
-<h2>📈 Current Stats</h2>
+## 🎓 Education & Credentials
 
-<!--
-<p align="center">
-  <img width="48%" height="160" src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=gotham" alt="Euiseok's GitHub Streak" />
-  <img width="48%" height="160" src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham" alt="Euiseok's GitHub Stats" />
-</p>
+| Category | Title | Organisation | Date | Credential |
+|---|---|---|---|---|
+| Robotics Training | Doosan Robotics ROKEY Bootcamp | Doosan Robotics | 2026 | Robotics Software Training |
+| Education | Bachelor of Computer and Information Sciences | Auckland University of Technology | Jul 2023 – Dec 2025 | [View](https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/Certificate_of_Graduation_Mosaicked.pdf) |
+| Experience | Flutter Developer Internship | HeartFull.Online / BetaBuilders | Jul – Oct 2025 | [View](https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/Certificate%20of%20Internship%20Participation.pdf) |
+| Certification | Microsoft Certified: Azure Fundamentals | Microsoft | Oct 2025 | [View](https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/CredentialsAzureFundamentals.pdf) |
+| Training | Microsoft Skills Bootcamp – Azure Fundamentals | Akkodis Academy | Sep 2025 | [View](https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/CertificateOfBootcampCompletion.pdf) |
 
-<p align="center">
-  <img width="48%" height="345" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;theme=gotham&amp;langs_count=5" alt="Euiseok's Most Used Languages" />
-  <img width="48%" height="345" src="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/animations/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif?raw=true" alt="Coding Animation" />
-</p>
+---
 
-<h3>⚡ GitHub Activity</h3>
+## 🎯 Target Roles
+
+I am currently interested in entry-level opportunities in:
+
+**Robotics Software Engineering · ROS 2 Development · AMR Software · Robot System Integration · Industrial Robotics Software**
+
+---
+
+## 📈 GitHub
 
 <p align="center">
   <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EuiseokJeongNZ&amp;theme=github-compact&amp;hide_border=true"
-    alt="Euiseok's GitHub Activity Graph"
-  />
-</p>
--->
-<p align="center"> 
-	<img width="48%" height="160" src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=gotham" alt="Euiseok's GitHub Streak" /> 
-	<img width="48%" height="160" src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham" alt="Euiseok's GitHub Stats" /> 
-</p> 
-<p align="center"> 
-	<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;theme=gotham&amp;langs_count=5&amp;hide=jupyter%20notebook" alt="Euiseok's Most Used Languages" /> 
-	<img width="48%" src="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/animations/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?raw=true" alt="Coding Animation" /> 
+    width="48%"
+    height="160"
+    src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&theme=gotham"
+    alt="GitHub Streak"
+  >
+  <img
+    width="48%"
+    height="160"
+    src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&show_icons=true&theme=gotham"
+    alt="GitHub Stats"
+  >
 </p>
 
-<br>
+---
 
-<h2>🤝 Let’s Connect</h2>
+## 🤝 Contact
 
 <p align="center">
-  <a href="https://euiseok-jeong-portfolio.netlify.app/">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/web.png"
-      alt="Website"
-    />
-  </a>
-
-  <a href="mailto:euiseokjeongnz@gmail.com">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/gmail.png"
-      alt="Gmail"
-    />
-  </a>
-
-  <a href="https://github.com/EuiseokJeongNZ">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/github.png"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/euiseok-jeong-965b9b310/">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/linkedin.png"
-      alt="LinkedIn"
-    />
-  </a>
+  <a href="https://euiseok-jeong-portfolio.netlify.app/">Portfolio</a>
+  ·
+  <a href="https://github.com/EuiseokJeongNZ">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/euiseok-jeong-965b9b310/">LinkedIn</a>
+  ·
+  <a href="mailto:euiseokjeongnz@gmail.com">Email</a>
 </p>
-
-<br>
