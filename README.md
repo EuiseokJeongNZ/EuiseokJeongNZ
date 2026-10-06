@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a >
+  <a>
     <img
       src="https://readme-typing-svg.herokuapp.com?lines=Robotics+Software+Engineer;ROS2+%C2%B7+Python+%C2%B7+Nav2+%C2%B7+Isaac+Sim+%C2%B7+Linux;React+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+Docker+%C2%B7+AWS+%C2%B7+CI/CD&color=5EA58B&center=true&width=650&height=50"
       alt="Typing SVG"
@@ -13,67 +13,11 @@
 </p>
 
 <hr>
-<!--
-<p>
-<li>
-  Software developer with experience in full-stack development and cloud deployment.
-</li>
-<br>
-<li>
-  Graduated from Auckland University of Technology in New Zealand with a
-  Bachelor of Computer and Information Sciences.
-</li>
-<br>
-<li>
-  Experienced in Python, Django, React, Docker, AWS, and CI/CD, with a focus
-  on applying software engineering principles.
-</li>
-</p>
--->
 
 <br>
-
-<!--
-<p align="center">
-  <a href="https://euiseok-jeong-portfolio.netlify.app/">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/web.png"
-      alt="Website"
-    />
-  </a>
-
-  <a href="mailto:euiseokjeongnz@gmail.com">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/gmail.png"
-      alt="Gmail"
-    />
-  </a>
-
-  <a href="https://github.com/EuiseokJeongNZ">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/github.png"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/euiseok-jeong-965b9b310/">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/linkedin.png"
-      alt="LinkedIn"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=EuiseokJeongNZ&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=plastic"
-    alt="Profile Views"
-  />
-</p>
-
--->
 
 <h2>🙋‍♂️ About Me</h2>
+
 <details open>
 <br>
 
@@ -125,6 +69,7 @@
     and industrial automation.
   </li>
 </ul>
+
 </details>
 
 <br>
@@ -132,6 +77,7 @@
 <h2>💼 Experience</h2>
 
 <details open>
+
 <h3>❤️ HeartFull.Online | Flutter Developer Intern</h3>
 
 <p>
@@ -161,6 +107,7 @@
     </a>
   </li>
 </ul>
+
 </details>
 
 <br>
@@ -168,33 +115,6 @@
 <h2>🚀 Projects</h2>
 
 <details open>
-
-<!--
-Add the robotics project here after completion and place it above the other projects.
-
-<h3>⭐ ROS 2 Robotics Project</h3>
-<ul>
-  <li>
-    <strong>Description:</strong>
-    Briefly explain the problem and project goal.
-  </li>
-  <li>
-    <strong>Key Features:</strong>
-    ROS 2 nodes, topics, services, actions, sensors, or simulation.
-  </li>
-  <li>
-    <strong>Role:</strong>
-    Explain the features you personally implemented.
-  </li>
-  <li>
-    <strong>Tech Stack:</strong>
-    ROS 2, Python, Linux, OpenCV
-  </li>
-  <li>
-    <a href="Repository URL">View Repository</a>
-  </li>
-</ul>
--->
 
 <h3>⭐ AMR &amp; Collaborative Robot Automation | Team Lead</h3>
 
@@ -219,7 +139,7 @@ Add the robotics project here after completion and place it above the other proj
   </li>
   <li>
     <strong>Tech Stack:</strong>
-    Isaac Sim 5.1, ROS 2 Jazzy, Python, Nav2, OpenCV, YOLO ONNX, MQTT,
+    Isaac Sim 5.1, ROS 2 Jazzy, Python, Nav2, OpenCV, MQTT,
     FastAPI, PostgreSQL, React, and Docker
   </li>
   <li>
@@ -256,13 +176,13 @@ Add the robotics project here after completion and place it above the other proj
     <strong>Role:</strong>
     Worked on robot-to-web system integration by implementing the ROS 2–MQTT
     bridge, FastAPI MQTT–WebSocket and REST–MQTT communication flows,
-    React/Three.js monitoring components, Docker-based infrastructure,
-    and end-to-end integration testing.
+    Spring Boot backend APIs, React/Three.js monitoring components,
+    Docker-based infrastructure, and end-to-end integration testing.
   </li>
   <li>
     <strong>Tech Stack:</strong>
-    ROS 2 Jazzy, Python, Doosan M0609, MQTT, FastAPI, WebSocket,
-    React, Three.js, PostgreSQL, and Docker
+    ROS 2 Jazzy, Python, Java, Doosan M0609, MQTT, FastAPI,
+    Spring Boot, WebSocket, React, Three.js, PostgreSQL, and Docker
   </li>
   <li>
     <a href="https://github.com/yujh5537/rokey_cobot1_Weld-Made">
@@ -327,90 +247,80 @@ Add the robotics project here after completion and place it above the other proj
 
 </details>
 
-<!--
-<h3>⭐ AI &amp; Computer Vision Practice</h3>
-
-<ul>
-  <li>
-    <strong>Description:</strong>
-    Selected AI and computer vision exercises completed as part of the
-    ongoing Doosan Robotics Bootcamp.
-  </li>
-  <li>
-    <strong>Topics:</strong>
-    Image processing, deep learning fundamentals, model training,
-    object detection, and computer vision practice.
-  </li>
-  <li>
-    <strong>Tech Stack:</strong>
-    Python, PyTorch, OpenCV, NumPy
-  </li>
-  <li>
-    <a href="https://github.com/EuiseokJeongNZ/ai-lecture-notes">
-      View Repository
-    </a>
-  </li>
-</ul>
--->
-
 <br>
 
 <h2>🛠️ Technical Skills</h2>
 
 <details open>
+
 <h3>👉 Programming Languages</h3>
+
 <p align="left">
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black">
-<img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=flat&amp;logo=csharp&amp;logoColor=white">
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white">
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&amp;logo=openjdk&amp;logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&amp;logo=openjdk&amp;logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white">
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=flat&amp;logo=csharp&amp;logoColor=white">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&amp;logo=dart&amp;logoColor=white">
 </p>
 
-<h3>👉 Robotics, AI &amp; Computer Vision</h3>
+<h3>👉 Robotics &amp; Simulation</h3>
+
 <p align="left">
-<img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-22314E?style=flat&amp;logo=ros&amp;logoColor=white">
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&amp;logo=opencv&amp;logoColor=white">
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&amp;logo=pytorch&amp;logoColor=white">
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&amp;logo=numpy&amp;logoColor=white">
+  <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-22314E?style=flat&amp;logo=ros&amp;logoColor=white">
+  <img alt="Nav2" src="https://img.shields.io/badge/Nav2-4B8BBE?style=flat&amp;logoColor=white">
+  <img alt="AMCL" src="https://img.shields.io/badge/AMCL-34495E?style=flat&amp;logoColor=white">
+  <img alt="TF2" src="https://img.shields.io/badge/TF2-22314E?style=flat&amp;logo=ros&amp;logoColor=white">
+  <img alt="Isaac Sim" src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat&amp;logo=nvidia&amp;logoColor=white">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&amp;logo=opencv&amp;logoColor=white">
 </p>
 
-<h3>👉 Backend Development</h3>
+<h3>👉 Backend &amp; Communication</h3>
+
 <p align="left">
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&amp;logo=django&amp;logoColor=white">
-<img alt="REST API" src="https://img.shields.io/badge/REST%20API-009688?style=flat&amp;logo=fastapi&amp;logoColor=white">
-<img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&amp;logoColor=white">
-<img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-47A248?style=flat&amp;logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&amp;logo=fastapi&amp;logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&amp;logo=springboot&amp;logoColor=white">
+  <img alt="Django REST Framework" src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&amp;logo=django&amp;logoColor=white">
+  <img alt="REST API" src="https://img.shields.io/badge/REST%20API-005571?style=flat&amp;logoColor=white">
+  <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101?style=flat&amp;logo=socketdotio&amp;logoColor=white">
+  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=flat&amp;logo=mqtt&amp;logoColor=white">
 </p>
 
-<h3>👉 Frontend Development</h3>
+<h3>👉 Database &amp; Cloud</h3>
+
 <p align="left">
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB">
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white">
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white">
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&amp;logo=flutter&amp;logoColor=white">
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&amp;logo=figma&amp;logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&amp;logo=postgresql&amp;logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&amp;logo=firebase&amp;logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&amp;logoColor=white">
+  <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-47A248?style=flat&amp;logoColor=white">
 </p>
 
-<h3>👉 Cloud &amp; DevOps</h3>
+<h3>👉 Frontend &amp; Visualisation</h3>
+
 <p align="left">
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&amp;logo=amazonaws&amp;logoColor=white">
-<img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&amp;logo=microsoftazure&amp;logoColor=white">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white">
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&amp;logo=githubactions&amp;logoColor=white">
-<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&amp;logo=nginx&amp;logoColor=white">
-<img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-6A5ACD?style=flat&amp;logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB">
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=flat&amp;logo=threedotjs&amp;logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&amp;logo=flutter&amp;logoColor=white">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&amp;logo=vite&amp;logoColor=white">
 </p>
 
-<h3>👉 Software &amp; Tools</h3>
+<h3>👉 DevOps &amp; Tools</h3>
+
 <p align="left">
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black">
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=ubuntu&amp;logoColor=white">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&amp;logo=visualstudiocode&amp;logoColor=white">
-<img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&amp;logo=googlecolab&amp;logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white">
+  <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&amp;logo=docker&amp;logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&amp;logo=githubactions&amp;logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&amp;logo=amazonaws&amp;logoColor=white">
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&amp;logo=nginx&amp;logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=ubuntu&amp;logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&amp;logo=figma&amp;logoColor=white">
 </p>
+
 </details>
 
 <br>
@@ -418,6 +328,7 @@ Add the robotics project here after completion and place it above the other proj
 <h2>🎓 Education, Certifications &amp; Experience 🏅</h2>
 
 <details>
+
 <table>
   <tr>
     <th>Category</th>
@@ -482,43 +393,41 @@ Add the robotics project here after completion and place it above the other proj
       </a>
     </td>
   </tr>
+
 </table>
+
 </details>
 
 <br>
 
 <h2>📈 Current Stats</h2>
 
-<!--
-<p align="center">
-  <img width="48%" height="160" src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=gotham" alt="Euiseok's GitHub Streak" />
-  <img width="48%" height="160" src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham" alt="Euiseok's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img width="48%" height="345" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;theme=gotham&amp;langs_count=5" alt="Euiseok's Most Used Languages" />
-  <img width="48%" height="345" src="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/animations/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif?raw=true" alt="Coding Animation" />
-</p>
-
-<h3>⚡ GitHub Activity</h3>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EuiseokJeongNZ&amp;theme=github-compact&amp;hide_border=true"
-    alt="Euiseok's GitHub Activity Graph"
-  />
-</p>
--->
-
 <p align="center"> 
-	<img width="48%" height="160" src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=gotham" alt="Euiseok's GitHub Streak" /> 
-	<img width="48%" height="160" src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham" alt="Euiseok's GitHub Stats" /> 
+  <img
+    width="48%"
+    height="160"
+    src="https://streak-stats.demolab.com/?user=EuiseokJeongNZ&amp;theme=gotham"
+    alt="Euiseok's GitHub Streak"
+  /> 
+  <img
+    width="48%"
+    height="160"
+    src="https://github-stats-extended.vercel.app/api?username=EuiseokJeongNZ&amp;show_icons=true&amp;theme=gotham"
+    alt="Euiseok's GitHub Stats"
+  /> 
 </p> 
 
 <p align="center"> 
-	<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;theme=gotham&amp;langs_count=5&amp;hide=jupyter%20notebook" alt="Euiseok's Most Used Languages" /> 
-	<img width="48%" src="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/animations/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?raw=true" alt="Coding Animation" /> 
+  <img
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=EuiseokJeongNZ&amp;theme=gotham&amp;langs_count=5&amp;hide=jupyter%20notebook"
+    alt="Euiseok's Most Used Languages"
+  /> 
+  <img
+    width="48%"
+    src="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/animations/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?raw=true"
+    alt="Coding Animation"
+  /> 
 </p>
 
 <br>
@@ -526,6 +435,7 @@ Add the robotics project here after completion and place it above the other proj
 <h2>🤝 Let’s Connect</h2>
 
 <p align="center">
+
   <a href="https://euiseok-jeong-portfolio.netlify.app/">
     <img
       src="https://img.icons8.com/bubbles/50/000000/web.png"
@@ -553,6 +463,7 @@ Add the robotics project here after completion and place it above the other proj
       alt="LinkedIn"
     />
   </a>
+
 </p>
 
 <br>
