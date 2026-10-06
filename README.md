@@ -283,8 +283,8 @@
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&amp;logo=fastapi&amp;logoColor=white">
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&amp;logo=springboot&amp;logoColor=white">
   <img alt="Django REST Framework" src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&amp;logo=django&amp;logoColor=white">
-  <img alt="REST API" src="https://img.shields.io/badge/REST%20API-005571?style=flat&amp;logoColor=white">
-  <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101?style=flat&amp;logoColor=white">
+  <!-- <img alt="REST API" src="https://img.shields.io/badge/REST%20API-005571?style=flat&amp;logoColor=white">
+  <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101?style=flat&amp;logoColor=white"> -->
   <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=flat&amp;logo=mqtt&amp;logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&amp;logo=postgresql&amp;logoColor=white">
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&amp;logo=firebase&amp;logoColor=white">
@@ -306,7 +306,7 @@
 <p align="left">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&amp;logo=amazonaws&amp;logoColor=white">
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&amp;logo=microsoftazure&amp;logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white">
+  <!-- <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white"> -->
   <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&amp;logo=docker&amp;logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&amp;logo=githubactions&amp;logoColor=white">
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&amp;logo=nginx&amp;logoColor=white">
