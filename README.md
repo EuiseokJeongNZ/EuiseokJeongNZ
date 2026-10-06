@@ -41,7 +41,7 @@
   </li>
   <li>
     Completed a Flutter Developer Internship and contributed to
-    client-facing software development.
+    client-facing software development using Firebase and Firestore.
   </li>
 </ul>
 
@@ -58,15 +58,15 @@
   </li>
   <li>
     Experienced in end-to-end robot system integration across
-    ROS 2, MQTT, backend services, and web-based control interfaces.
+    ROS 2, MQTT, backend services, databases, and web-based control interfaces.
   </li>
 </ul>
 
 <p><strong>🎯 Career Interests</strong></p>
 <ul>
   <li>
-    Robotics software, ROS 2 development, AMR systems, robot system integration,
-    and industrial automation.
+    Robotics software, ROS 2 development, AMR systems,
+    robot system integration, and industrial automation.
   </li>
 </ul>
 
@@ -99,7 +99,7 @@
   </li>
   <li>
     <strong>Tech Stack:</strong>
-    Dart, Flutter, Firebase, REST APIs, Git, GitHub
+    Dart, Flutter, Firebase, Firestore, REST APIs, Git, GitHub
   </li>
   <li>
     <a href="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/Certificate%20of%20Internship%20Participation.pdf">
@@ -127,20 +127,21 @@
   </li>
   <li>
     <strong>Key Features:</strong>
-    Nav2 autonomous navigation, AMR docking and lift control, RGB/Depth and
-    YOLO ONNX-based parcel detection, repeated P3020 pick-and-place,
-    destination sorting, equipment control, and live mission tracking.
+    Nav2 autonomous navigation, AMR docking and lift control,
+    repeated P3020 pick-and-place, destination sorting,
+    equipment control, and live mission tracking.
   </li>
   <li>
     <strong>Role:</strong>
-    Served as team lead and worked on AMR development and end-to-end system
-    integration, including Nav2, ROS 2–MQTT adapters, backend and vision
-    integration, infrastructure setup, debugging, and integration testing.
+    Served as team lead and worked on AMR development and end-to-end
+    system integration, including Nav2, ROS 2–MQTT adapters,
+    backend integration, pose synchronisation, infrastructure setup,
+    debugging, and integration testing.
   </li>
   <li>
     <strong>Tech Stack:</strong>
-    Isaac Sim 5.1, ROS 2 Jazzy, Python, Nav2, OpenCV, MQTT,
-    FastAPI, PostgreSQL, React, and Docker
+    Isaac Sim 5.1, ROS 2 Jazzy, Python, Nav2, AMCL, TF2,
+    MQTT, FastAPI, PostgreSQL, React, Docker
   </li>
   <li>
     <a href="https://github.com/rokey-c2/cobot3-ws-c2">
@@ -168,9 +169,9 @@
   </li>
   <li>
     <strong>Key Features:</strong>
-    Real-robot contact scanning, geometry estimation, welding-path execution,
-    ROS 2–MQTT communication, real-time WebSocket monitoring, and
-    React/Three.js-based robot visualisation.
+    Real-robot contact scanning, geometry estimation,
+    welding-path execution, ROS 2–MQTT communication,
+    real-time WebSocket monitoring, and React/Three.js-based robot visualisation.
   </li>
   <li>
     <strong>Role:</strong>
@@ -181,8 +182,9 @@
   </li>
   <li>
     <strong>Tech Stack:</strong>
-    ROS 2 Jazzy, Python, Java, Doosan M0609, MQTT, FastAPI,
-    Spring Boot, WebSocket, React, Three.js, PostgreSQL, and Docker
+    ROS 2 Jazzy, Python, Java, Doosan M0609, MQTT,
+    FastAPI, Spring Boot, WebSocket, React, Three.js,
+    PostgreSQL, Docker
   </li>
   <li>
     <a href="https://github.com/yujh5537/rokey_cobot1_Weld-Made">
@@ -200,8 +202,8 @@
 <ul>
   <li>
     <strong>Description:</strong>
-    Developed responsive and interactive stadium seat maps for 30 football
-    and baseball ticket product pages deployed on a live e-commerce service.
+    Developed responsive and interactive stadium seat maps for
+    football and baseball ticket product pages deployed on a live e-commerce service.
   </li>
   <li>
     <strong>Key Features:</strong>
@@ -210,7 +212,7 @@
   </li>
   <li>
     <strong>Tech Stack:</strong>
-    HTML5, CSS3, Vanilla JavaScript, Figma, CodePen, Imweb
+    HTML5, CSS3, JavaScript, Figma, CodePen, Imweb
   </li>
   <li>
     <a href="https://github.com/EuiseokJeongNZ/interactive-stadium-seat-map/tree/main">
@@ -225,8 +227,8 @@
   <li>
     <strong>Description:</strong>
     Production-style e-commerce application featuring HTTP-only cookie-based
-    JWT authentication, automatic token refresh, checkout, order management,
-    and purchase-verified reviews.
+    JWT authentication, automatic token refresh, checkout,
+    order management, and purchase-verified reviews.
   </li>
   <li>
     <strong>Key Features:</strong>
@@ -235,8 +237,8 @@
   </li>
   <li>
     <strong>Tech Stack:</strong>
-    React, Django REST Framework, PostgreSQL, Docker, AWS EC2,
-    Nginx, GitHub Actions
+    React, Django REST Framework, PostgreSQL, Docker,
+    AWS EC2, Nginx, GitHub Actions
   </li>
   <li>
     <a href="https://github.com/EuiseokJeongNZ/react-ecommerce-project">
@@ -253,7 +255,7 @@
 
 <details open>
 
-<h3>👉 Programming Languages</h3>
+<h3>👉 Programming</h3>
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white">
@@ -264,7 +266,7 @@
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&amp;logo=dart&amp;logoColor=white">
 </p>
 
-<h3>👉 Robotics &amp; Simulation</h3>
+<h3>👉 Robotics</h3>
 
 <p align="left">
   <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-22314E?style=flat&amp;logo=ros&amp;logoColor=white">
@@ -275,27 +277,20 @@
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&amp;logo=opencv&amp;logoColor=white">
 </p>
 
-<h3>👉 Backend &amp; Communication</h3>
+<h3>👉 Backend</h3>
 
 <p align="left">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&amp;logo=fastapi&amp;logoColor=white">
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&amp;logo=springboot&amp;logoColor=white">
   <img alt="Django REST Framework" src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&amp;logo=django&amp;logoColor=white">
   <img alt="REST API" src="https://img.shields.io/badge/REST%20API-005571?style=flat&amp;logoColor=white">
-  <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101?style=flat&amp;logo=socketdotio&amp;logoColor=white">
+  <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101?style=flat&amp;logoColor=white">
   <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=flat&amp;logo=mqtt&amp;logoColor=white">
-</p>
-
-<h3>👉 Database &amp; Cloud</h3>
-
-<p align="left">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&amp;logo=postgresql&amp;logoColor=white">
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&amp;logo=firebase&amp;logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&amp;logoColor=white">
-  <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-47A248?style=flat&amp;logoColor=white">
 </p>
 
-<h3>👉 Frontend &amp; Visualisation</h3>
+<h3>👉 Frontend</h3>
 
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB">
@@ -306,19 +301,27 @@
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&amp;logo=vite&amp;logoColor=white">
 </p>
 
-<h3>👉 DevOps &amp; Tools</h3>
+<h3>👉 DevOps &amp; Cloud</h3>
 
 <p align="left">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&amp;logo=amazonaws&amp;logoColor=white">
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&amp;logo=microsoftazure&amp;logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white">
   <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&amp;logo=docker&amp;logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&amp;logo=githubactions&amp;logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&amp;logo=amazonaws&amp;logoColor=white">
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&amp;logo=nginx&amp;logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black">
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=ubuntu&amp;logoColor=white">
+</p>
+
+<h3>👉 Tools</h3>
+
+<p align="left">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=ubuntu&amp;logoColor=white">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&amp;logo=visualstudiocode&amp;logoColor=white">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&amp;logo=figma&amp;logoColor=white">
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&amp;logo=googlecolab&amp;logoColor=white">
 </p>
 
 </details>
@@ -342,8 +345,8 @@
     <td>Training</td>
     <td>Doosan Robotics ROKEY Bootcamp</td>
     <td>Doosan Robotics</td>
-    <td>2026</td>
-    <td>Completed · Oct 16, 2026</td>
+    <td>Apr 2026–Oct 2026</td>
+    <td>In Preparation</td>
   </tr>
 
   <tr>
@@ -393,7 +396,6 @@
       </a>
     </td>
   </tr>
-
 </table>
 
 </details>
