@@ -346,7 +346,7 @@
     <td>Doosan Robotics ROKEY Bootcamp</td>
     <td>Doosan Robotics</td>
     <td>Apr 2026–Oct 2026</td>
-    <td>In Preparation</td>
+    <td>Completed</td>
   </tr>
 
   <tr>
