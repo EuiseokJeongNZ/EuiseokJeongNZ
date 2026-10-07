@@ -194,6 +194,7 @@
     <a href="https://rokey-cobot1-weld-made.netlify.app/">
       View Architecture
     </a>
+    ·
     <a href="https://app.notion.com/p/Weld-Made-Task-Documentation-Web-3e1fe8937ec381498850e9d0fb5a5134?source=copy_link">
       View Project Documentation
     </a>
