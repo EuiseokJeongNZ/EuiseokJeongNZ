@@ -158,6 +158,38 @@
   </li>
 </ul>
 
+<h3>⭐ VOSS | Voice-Operated Sorting System</h3>
+
+<ul>
+  <li>
+    <strong>Description:</strong>
+    Developed a ROS 2-based parcel-sorting assistant using a Doosan M0609
+    collaborative robot, a wrist-mounted camera, and a moving conveyor.
+  </li>
+  <li>
+    <strong>Key Features:</strong>
+    Conveyor tracking and pick-and-place, multi-stage OCR-based destination
+    sorting, voice-command processing with Whisper and OpenAI, a real-time
+    web HMI, and PostgreSQL-based sorting history and statistics.
+  </li>
+  <li>
+    <strong>Role:</strong>
+    Developed the voice and web/HMI components, including speech recognition
+    and intent processing, ROS 2–MQTT communication, Spring Boot and React
+    monitoring interfaces, and database logging and history queries.
+  </li>
+  <li>
+    <strong>Tech Stack:</strong>
+    ROS 2 Jazzy, Python, Whisper, OpenAI API, FastAPI, MQTT,
+    Java, Spring Boot, React, TypeScript, PostgreSQL, Docker
+  </li>
+  <li>
+    <a href="https://github.com/lambdaramji/rokey_cobot2_VOSS">
+      View Repository
+    </a>
+  </li>
+</ul>
+
 <h3>⭐ Weld-Made | Doosan M0609 Contact-Scan &amp; Welding System</h3>
 
 <ul>
