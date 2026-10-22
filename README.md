@@ -315,10 +315,10 @@
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&amp;logo=openjdk&amp;logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat&amp;logo=csharp&amp;logoColor=white">
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&amp;logo=dart&amp;logoColor=white">
 </p>
 
@@ -341,7 +341,7 @@
   <img alt="Django REST Framework" src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&amp;logo=django&amp;logoColor=white">
   <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=flat&amp;logo=mqtt&amp;logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&amp;logo=postgresql&amp;logoColor=white">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&amp;logo=firebase&amp;logoColor=white">
+  <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101?style=flat&amp;logoColor=white">
 </p>
 
 <h3>👉 Frontend</h3>
@@ -364,21 +364,17 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&amp;logo=amazonaws&amp;logoColor=white">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat&amp;logo=microsoftazure&amp;logoColor=white">
   <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-3C79A6?style=flat&amp;logoColor=white">
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&amp;logo=nginx&amp;logoColor=white">
 </p>
 
 <h3>👉 AI &amp; Tools</h3>
 
 <p align="left">
-  <img alt="VAD" src="https://img.shields.io/badge/VAD-0C987E?style=flat&amp;logoColor=white">
-  <img alt="faster-whisper" src="https://img.shields.io/badge/faster-whisper-6474E5?style=flat&amp;logoColor=white">
-  <img alt="LLM Intent" src="https://img.shields.io/badge/LLM%20Intent-6B4AB8?style=flat&amp;logoColor=white">
   <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat&amp;logo=openai&amp;logoColor=white">
+  <img alt="faster-whisper" src="https://img.shields.io/badge/faster-whisper-6474E5?style=flat&amp;logoColor=white">
+  <img alt="VAD" src="https://img.shields.io/badge/VAD-0C987E?style=flat&amp;logoColor=white">
+  <img alt="LLM Intent Processing" src="https://img.shields.io/badge/LLM%20Intent%20Processing-7C3AED?style=flat&amp;logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&amp;logo=visualstudiocode&amp;logoColor=white">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&amp;logo=figma&amp;logoColor=white">
-  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&amp;logo=googlecolab&amp;logoColor=white">
 </p>
 
 </details>
