@@ -148,11 +148,15 @@
       View Repository
     </a>
     ·
+    <a href="https://bold-cinema-cc6.notion.site/AMR-Portfolio-3fefe8937ec381f89b15f4fd0681b7d4">
+      View Portfolio
+    </a>
+    ·
     <a href="https://cobot3-ws-c2-architectures.netlify.app/">
       View Architecture
     </a>
     ·
-    <a href="https://app.notion.com/p/AMR-Portfolio-466fe8937ec3824e93e801b6c9c8c22b">
+    <a href="https://bold-cinema-cc6.notion.site/AMR-Documentation-466fe8937ec3824e93e801b6c9c8c22b">
       View Project Documentation
     </a>
   </li>
@@ -187,6 +191,18 @@
     <a href="https://github.com/lambdaramji/rokey_cobot2_VOSS">
       View Repository
     </a>
+    ·
+    <a href="https://bold-cinema-cc6.notion.site/VOSS-AI-400fe8937ec381138ffcd66bf9821b54">
+      View Portfolio
+    </a>
+    ·
+    <a href="https://agent-6ad1aab48a06a4d2c8244b7--voss-architecture.netlify.app/">
+      View Architecture
+    </a>
+    ·
+    <a href="https://bold-cinema-cc6.notion.site/VOSS-AI-3f3fe8937ec3811282e6fd0f8b6675e0">
+      View Project Documentation
+    </a>
   </li>
 </ul>
 
@@ -219,15 +235,19 @@
     PostgreSQL, Docker
   </li>
   <li>
-    <a href="https://github.com/yujh5537/rokey_cobot1_Weld-Made">
+    <a href="https://github.com/lambdaramji/rokey_cobot1_Weld-Made">
       View Repository
+    </a>
+    ·
+    <a href="https://bold-cinema-cc6.notion.site/Weld-Made-Portfolio-400fe8937ec381089d32d2bc2e4b097b">
+      View Portfolio
     </a>
     ·
     <a href="https://rokey-cobot1-weld-made.netlify.app/">
       View Architecture
     </a>
     ·
-    <a href="https://app.notion.com/p/Weld-Made-Task-Documentation-Web-3e1fe8937ec381498850e9d0fb5a5134?source=copy_link">
+    <a href="https://bold-cinema-cc6.notion.site/Weld-Made-Task-Documentation-Web-3e1fe8937ec381498850e9d0fb5a5134">
       View Project Documentation
     </a>
   </li>
