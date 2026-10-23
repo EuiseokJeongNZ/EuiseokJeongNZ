@@ -23,51 +23,28 @@
 
 <p><strong>🎓 Background</strong></p>
 <ul>
-  <li>
-    Bachelor's degree in Computer and Information Sciences from
-    Auckland University of Technology.
-  </li>
+  <li>Bachelor of Computer and Information Sciences from Auckland University of Technology.</li>
+  <li>Completed the Doosan Robotics ROKEY Bootcamp in AI and robotics engineering.</li>
 </ul>
 
 <p><strong>💻 Development Experience</strong></p>
 <ul>
-  <li>
-    Full-stack development experience with Python, Django REST Framework,
-    React, PostgreSQL, and REST APIs.
-  </li>
-  <li>
-    Built and deployed a full-stack e-commerce application using Docker,
-    GitHub Actions, AWS EC2, and Nginx.
-  </li>
-  <li>
-    Completed a Flutter Developer Internship and contributed to
-    client-facing software development using Firebase and Firestore.
-  </li>
+  <li>Developed responsive, interactive stadium seat maps for 30 ticket product pages as a client web developer at Tingu.</li>
+  <li>Completed a Flutter Developer Internship at HeartFull.Online / BetaBuilders, developing admin features and integrating REST APIs and Firestore.</li>
+  <li>Built a full-stack e-commerce application with React, Django REST Framework, PostgreSQL, Docker, AWS EC2, Nginx, and GitHub Actions.</li>
 </ul>
 
 <p><strong>🤖 Robotics Experience</strong></p>
 <ul>
-  <li>
-    Completed the Doosan Robotics ROKEY Bootcamp and developed
-    ROS 2-based robotics systems involving AMR navigation,
-    collaborative robots, robot communication, and real-time web monitoring.
-  </li>
-  <li>
-    Built both Isaac Sim-based robotic automation systems and
-    real-robot applications using the Doosan M0609 collaborative robot.
-  </li>
-  <li>
-    Experienced in end-to-end robot system integration across
-    ROS 2, MQTT, backend services, databases, and web-based control interfaces.
-  </li>
+  <li>Connect ROS 2 robot systems with communication, backend services, databases, and real-time web interfaces.</li>
+  <li>Led AMR software development, HMI, and system integration, implementing Nav2 missions, cargo docking, lift control, and pose synchronisation and restoration in Isaac Sim.</li>
+  <li>Developed voice and AI chat command processing, ROS 2–MQTT communication, result logging, and web monitoring for VOSS.</li>
+  <li>Built bidirectional robot-to-web communication, backend and database integration, and React/Three.js monitoring for the physical Doosan M0609 in Weld-Made.</li>
 </ul>
 
 <p><strong>🎯 Career Interests</strong></p>
 <ul>
-  <li>
-    Robotics software, ROS 2 development, AMR systems,
-    robot system integration, and industrial automation.
-  </li>
+  <li>ROS 2-based robot system integration, robot communication, backend development, and real-time web monitoring.</li>
 </ul>
 
 </details>
@@ -77,6 +54,20 @@
 <h2>💼 Experience</h2>
 
 <details open>
+
+<h3>💻 Tingu | Web Developer · Client Project</h3>
+
+<p>
+  <strong>Tingu</strong> · Apr 2026 – Oct 2026
+</p>
+
+<ul>
+  <li>Developed and deployed responsive, interactive stadium seat maps across 30 ticket product pages on Imweb.</li>
+  <li>Implemented linked seat-zone highlights, desktop tooltips, mobile bottom sheets, and keyboard accessibility.</li>
+  <li>Customised stadium layouts and isolated page styles and scripts to prevent integration conflicts.</li>
+  <li><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Figma, CodePen, Imweb</li>
+  <li><a href="https://github.com/EuiseokJeongNZ/interactive-stadium-seat-map/tree/main">View Repository</a> · <a href="https://www.ticketguide.co.kr/shop_view?idx=27">Live Sample</a></li>
+</ul>
 
 <h3>❤️ HeartFull.Online | Flutter Developer Intern</h3>
 
@@ -178,8 +169,8 @@
   </li>
   <li>
     <strong>Role:</strong>
-    Developed the voice and web/HMI components, including speech recognition
-    and intent processing, ROS 2–MQTT communication, Spring Boot and React
+    Developed voice and AI chat command processing, speech recognition
+    and intent validation, ROS 2–MQTT communication, Spring Boot and React
     monitoring interfaces, and database logging and history queries.
   </li>
   <li>
@@ -315,10 +306,11 @@
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&amp;logo=openjdk&amp;logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&amp;logo=openjdk&amp;logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat&amp;logoColor=white">
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&amp;logo=dart&amp;logoColor=white">
 </p>
 
@@ -341,6 +333,7 @@
   <img alt="Django REST Framework" src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&amp;logo=django&amp;logoColor=white">
   <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=flat&amp;logo=mqtt&amp;logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&amp;logo=postgresql&amp;logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&amp;logoColor=white">
   <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101?style=flat&amp;logoColor=white">
 </p>
 
@@ -364,17 +357,21 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&amp;logo=amazonaws&amp;logoColor=white">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat&amp;logo=microsoftazure&amp;logoColor=white">
   <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-3C79A6?style=flat&amp;logoColor=white">
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&amp;logoColor=white">
 </p>
 
 <h3>👉 AI &amp; Tools</h3>
 
 <p align="left">
-  <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat&amp;logo=openai&amp;logoColor=white">
-  <img alt="faster-whisper" src="https://img.shields.io/badge/faster-whisper-6474E5?style=flat&amp;logoColor=white">
   <img alt="VAD" src="https://img.shields.io/badge/VAD-0C987E?style=flat&amp;logoColor=white">
-  <img alt="LLM Intent Processing" src="https://img.shields.io/badge/LLM%20Intent%20Processing-7C3AED?style=flat&amp;logoColor=white">
+  <img alt="faster-whisper" src="https://img.shields.io/badge/faster-whisper-6474E5?style=flat&amp;logoColor=white">
+  <img alt="LLM Intent" src="https://img.shields.io/badge/LLM%20Intent-7C3AED?style=flat&amp;logoColor=white">
+  <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat&amp;logo=openai&amp;logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&amp;logoColor=white">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&amp;logo=figma&amp;logoColor=white">
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&amp;logoColor=white">
 </p>
 
 </details>
