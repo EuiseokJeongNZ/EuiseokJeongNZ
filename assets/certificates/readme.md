@@ -14,7 +14,7 @@
     <td>Doosan Robotics Bootcamp</td>
     <td>Doosan Robotics</td>
     <td>2026–Present</td>
-    <td>In Progress</td>
+    <td>Completed</td>
   </tr>
 
   <tr>
