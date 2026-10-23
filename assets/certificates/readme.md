@@ -13,7 +13,7 @@
     <td>Training</td>
     <td>Doosan Robotics Bootcamp</td>
     <td>Doosan Robotics</td>
-    <td>2026–Present</td>
+    <td>Apr-Oct 2026</td>
     <td>Completed</td>
   </tr>
 
