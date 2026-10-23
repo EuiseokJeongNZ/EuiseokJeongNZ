@@ -21,7 +21,7 @@
     <td>Education</td>
     <td>Bachelor of Computer and Information Sciences</td>
     <td>Auckland University of Technology</td>
-    <td>Jul 2023–Dec 2025</td>
+    <td>Aug 2022–Dec 2025</td>
     <td>
       <a href="https://github.com/EuiseokJeongNZ/EuiseokJeongNZ/blob/main/assets/certificates/Certificate_of_Graduation_Mosaicked.pdf">
         View
