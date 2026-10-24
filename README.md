@@ -3,19 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
 
-<p align="center">
-  <a>
-    <img
-      src="https://readme-typing-svg.herokuapp.com?lines=Robotics+Software+Engineer;ROS2+%C2%B7+Python+%C2%B7+Nav2+%C2%B7+Isaac+Sim+%C2%B7+Linux;React+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+Docker+%C2%B7+AWS+%C2%B7+CI/CD&color=5EA58B&center=true&width=650&height=50"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
-<hr>
-
-<br>
-
 <h2>🤝 Let’s Connect</h2>
 
 <p align="center">
@@ -52,6 +39,18 @@
 
 <br>
 
+<p align="center">
+  <a>
+    <img
+      src="https://readme-typing-svg.herokuapp.com?lines=Robotics+Software+Engineer;ROS2+%C2%B7+Python+%C2%B7+Nav2+%C2%B7+Isaac+Sim+%C2%B7+Linux;React+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+Docker+%C2%B7+AWS+%C2%B7+CI/CD&color=5EA58B&center=true&width=650&height=50"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+<hr>
+
+<br>
 
 <h2>🙋‍♂️ About Me</h2>
 
