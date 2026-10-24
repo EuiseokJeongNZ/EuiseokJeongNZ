@@ -16,6 +16,43 @@
 
 <br>
 
+<h2>🤝 Let’s Connect</h2>
+
+<p align="center">
+
+  <a href="https://euiseok-jeong-portfolio.netlify.app/">
+    <img
+      src="https://img.icons8.com/bubbles/50/000000/web.png"
+      alt="Website"
+    />
+  </a>
+
+  <a href="mailto:euiseokjeongnz@gmail.com">
+    <img
+      src="https://img.icons8.com/bubbles/50/000000/gmail.png"
+      alt="Gmail"
+    />
+  </a>
+
+  <a href="https://github.com/EuiseokJeongNZ">
+    <img
+      src="https://img.icons8.com/bubbles/50/000000/github.png"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/euiseok-jeong-965b9b310/">
+    <img
+      src="https://img.icons8.com/bubbles/50/000000/linkedin.png"
+      alt="LinkedIn"
+    />
+  </a>
+
+</p>
+
+<br>
+
+
 <h2>🙋‍♂️ About Me</h2>
 
 <details open>
@@ -484,38 +521,3 @@
 
 <br>
 
-<h2>🤝 Let’s Connect</h2>
-
-<p align="center">
-
-  <a href="https://euiseok-jeong-portfolio.netlify.app/">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/web.png"
-      alt="Website"
-    />
-  </a>
-
-  <a href="mailto:euiseokjeongnz@gmail.com">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/gmail.png"
-      alt="Gmail"
-    />
-  </a>
-
-  <a href="https://github.com/EuiseokJeongNZ">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/github.png"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/euiseok-jeong-965b9b310/">
-    <img
-      src="https://img.icons8.com/bubbles/50/000000/linkedin.png"
-      alt="LinkedIn"
-    />
-  </a>
-
-</p>
-
-<br>
